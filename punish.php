@@ -177,10 +177,10 @@ div.panel {
 
 	<div id="wrapper">
 		<div class="overlay">
-			<nav class="navbar navbar-inverse" id="sidebar-wrapper" role="navigation">	
+		<nav class="navbar navbar-inverse" id="sidebar-wrapper" role="navigation">	
 				<ul class="nav sidebar-nav sidenav" style="color: black; text-align: center; background-color: #002;">
 				<li style="padding-bottom: 40px; padding-top: 10px; color: #fff;"><a href="index.php">መነሻ ገጽ</a></li>
-				 <li><a href="Tutorial.php">ምእራፍ 1</a></li>
+			    <li><a href="Tutorial.php">ምእራፍ 1</a></li>
 				 <li><a href="Ch2.php">ምእራፍ 2</a></li>
 				 <li><a href="Ch3.php">ምእራፍ 3</a></li>
 				 <li><a href="Ch4.php">ምእራፍ 4</a></li>
@@ -197,7 +197,6 @@ div.panel {
 				 <li><a href="quiz.php">ሙከራ ፈተና</a></li>
 				 <li><a href="signs.php">የመንገድ ምልክቶች</a></li>
 				 <li><a href="punish.php">ቅጣቶች</a></li>
-				 <li><a href="video.php">ቪዲዮ ምስል</a></li>
 				 <li><a href="user-ad.php">ማስታወቂያ</a></li>
 			</ul>
 		</nav>

@@ -10,7 +10,7 @@
 <div class="wrapper">
 		<div class="nav">
 			<div class="logo">
-			 <a style="text-decoration: none;color: #fff; " href="index.php">መንጃ ፍቃድ መማርያ</a>
+			 <a style="text-decoration: none;color: #fff; " href="index.php">ሴፍ ዞን</a>
 		</div>
 		<div class="menu">
 			<ul>
