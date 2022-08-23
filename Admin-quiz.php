@@ -58,6 +58,20 @@ if (isset($_POST['insert'])) {
 
 }
 
+if (isset($_POST['delete'])) {
+
+	$question_number = $_POST['question_number'];
+
+    $delete_query = "DELETE FROM questions WHERE question_number = '$question_number'"; 
+	$delete_choice = "DELETE FROM choice WHERE question_number = '$question_number'"; 
+    $delete_question = $mysqli->query($delete_query) or die($mysqli->error.__LINE__);
+	$delete_choice = $mysqli->query($delete_choice) or die($mysqli->error.__LINE__);
+    if($delete_question && $delete_choice){
+			echo "<script>alert('ጥያቄው ጠፍቷል!')</script>";
+    	}
+     $msg = 'ጥያቄው ተፍቷል';
+    }
+
  $q = "SELECT * FROM questions";
     $r = $mysqli->query($q) or die($mysqli->error.__LINE__);
     $total = $r->num_rows;
@@ -305,8 +319,6 @@ li a {
                     
                   <input type="submit" value="አስገባ" class="btn" name="insert">
                   <input type="submit" value="አጥፋ" class="btn" name="delete">
-                  <input type="submit" value="አሻሽል" class="btn" name="update">
-                  <input type="submit" value="ፈልግ" class="btn" name="search">
                 
             </form>
 
