@@ -168,28 +168,7 @@
 				 <li><a href="user-ad.php">ማስታወቂያ</a></li>			</ul>
 		</nav>
 		<?php session_start(); ?>
-		<?php
-	if (isset($_SESSION["uname"])){
-		$user = $_SESSION["uname"];
 		
-                ?>
-                <div class="left-menu">
-                	<ul>
-                <li><a href="change.php"><?php echo $user; ?></a></li>
-                <li><a href="userReport.php"> የፈተና ዉጤቶቼ</a></li>
-                <li><a href="logout.php"> ውጣ</a></li>
-
-                </ul>
-                </div>
-
-                <?php
-                  }
-               else{
-                   ?>
-				
-				<?php 
-                  }
-			        ?>
      
      <?php                   
                         $con = mysqli_connect("localhost","root","","projectdb");
