@@ -334,7 +334,7 @@ if (isset($_POST['update']))
         <div class="page-content-wrapper">
         	<div class="container">
         		<div class="row">
-        			<div class="col-lg-8 col-lg-offst-2" style="padding-left: 50px;">
+        			<div class="col-lg-12 col-12 col-sm-12 col-lg-offst-2" style="padding-left: 50px;">
         				<h1>ምእራፍ</h1>
 
                   <form method="post" action="Admin-content.php" >
@@ -348,7 +348,7 @@ if (isset($_POST['update']))
                     <br><br><br>
                   
                     <label>ምእራፍ</label>
-                    <textarea name="content" cols="45" rows="8" required="onclick"> <?php echo $content;?></textarea>
+                    <textarea name="content" cols="45" rows="15" required="onclick"> <?php echo $content;?></textarea>
                  
                     <br><br><br>
         </div>
