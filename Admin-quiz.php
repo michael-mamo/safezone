@@ -50,7 +50,7 @@ if (isset($_POST['insert'])) {
 
     		}
     	}
-     $msg = 'Question has been added';
+     $msg = 'ጥያቂው ተጨምሯል';
 
     }
 
@@ -64,15 +64,15 @@ if (isset($_POST['delete'])) {
 
     $delete_query = "DELETE FROM questions WHERE question_number = '$question_number'"; 
 	$delete_choice = "DELETE FROM choices WHERE question_number = '$question_number'"; 
-    $delete_question = $mysqli->query($delete_query) or die($mysqli->error.__LINE__);
-	$delete_choice = $mysqli->query($delete_choice) or die($mysqli->error.__LINE__);
+    $delete_question = $mysqli_query($delete_query, $mysqli);
+	$delete_choice = $mysqli->query($delete_choice, $mysqli) ;
     if($delete_question && $delete_choice){
 			echo "<script>alert('ጥያቄው ጠፍቷል!')</script>";
     	}
-     $msg = 'ጥያቄው ተፍቷል';
+     $msg2 = 'ጥያቄው ተፍቷል';
     }
 
- $q = "SELECT * FROM questions";
+ $q = "SELECT * FROM questions order by ";
     $r = $mysqli->query($q) or die($mysqli->error.__LINE__);
     $total = $r->num_rows;
     $next = $total+1; 
@@ -283,6 +283,9 @@ li a {
         				 if(isset($msg)){
         				 	 echo "<script> alert('ጥያቂው ተጨምሯል');</script>";
         				 }
+						 if(isset($msg2)){
+							echo "<script> alert('ጥያቂው ጠፍቷል');</script>";
+					   }
         				 ?>
         			<form method="post" action="Admin-quiz.php" >
                 
