@@ -44,6 +44,7 @@ if (isset($_POST['insert'])) {
                if ($insert_row) {
                	continue;
                }else{
+				echo "<script>alert('ጥያቄው አልተመዘገበም!')</script>";
            die('Error : ('.$mysqli->errno .') '.$mysqli->error);
                }
 
@@ -70,7 +71,7 @@ if (isset($_POST['insert'])) {
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Quiz</title>
+	<title>የሙከራ ፈተና</title>
 	<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 
@@ -266,14 +267,15 @@ li a {
         				 <h3>ፈተና አስገባ</h3>
         				 <?php 
         				 if(isset($msg)){
-        				 	 echo "<script> alert('Question Added');</script>";
+        				 	 echo "<script> alert('ጥያቂው ተጨምሯል');</script>";
         				 }
         				 ?>
         			<form method="post" action="Admin-quiz.php" >
                 
                   <p>
                     <label>ጥያቄ ቁጥር</label>
-                    <input type="number" name="question_number" value="<?php echo $next; ?>" style="width: auto;" required onclick="greenBorder('uemail')";>
+					<input type="hidden" name="question_number" disabled value="<?php echo $next; ?>" style="width: auto;" required onclick="greenBorder('uemail')";>
+                    <input type="number" name="question_number_1" disabled value="<?php echo $next; ?>" style="width: auto;" required onclick="greenBorder('uemail')";>
                   </p>
                   <p>
                     <label>ጥያቄ: </label>

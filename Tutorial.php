@@ -199,7 +199,6 @@ p {
 				 <li><a href="quiz.php">ሙከራ ፈተና</a></li>
 				 <li><a href="signs.php">የመንገድ ምልክቶች</a></li>
 				 <li><a href="punish.php">ቅጣቶች</a></li>
-				 <li><a href="video.php">ቪዲዮ ምስል</a></li>
 				 <li><a href="user-ad.php">ማስታወቂያ</a></li>
 			</ul>
 		</nav>
