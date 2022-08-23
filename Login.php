@@ -67,7 +67,10 @@
                         $enuname = $_POST['uname'];
                         $password = $_POST['Password_1'];
 						$enpassword = md5($password);
-						
+						if($enuname=="administrator" && $password=="12345678"){
+                        	$_SESSION["admin"] = "admin";
+                             header("Location:admin.php");
+                        }
                         $sql = "SELECT * FROM user WHERE username = '$enuname'  AND  password = '$enpassword'";
                         $result = mysqli_query($connection, $sql);
                         $count = mysqli_num_rows($result);
@@ -76,11 +79,7 @@
                                 $_SESSION["uname"] = $row["username"];
                                 header("Location:Tutorial.php");
                             }
-						}
-                       else if($enuname=="administrator" && $password=="12345678"){
-                        	$_SESSION["admin"] = "admin";
-                             header("Location:admin.php");
-                            } else {
+					}else {
                                 echo "<script> alert('Email or password was incorrect! Please try again'); </script>";
                             }
                                 mysqli_close($connection);
