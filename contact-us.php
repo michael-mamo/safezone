@@ -9,8 +9,11 @@ include 'manageUser.php';
 	<title>ሴፍ ዞን መንጃ ፈቃድ መማሪያ</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
-<body style ="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('css/background.jpg');">
-	<div class="wrapper">
+<body style ="background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('css/background.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;">	<div class="wrapper">
 		<div class="nav" style ="background-color: rgba(0,0,0,0.8);">
 			<div class="logo">
 			 <a style="text-decoration: none;color: #fff; " href="index.php">ሴፍ ዞን</a>
