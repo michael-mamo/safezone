@@ -67,7 +67,7 @@
                         $enuname = $_POST['uname'];
                         $password = $_POST['Password_1'];
 						$enpassword = md5($password);
-						if($enuname=="administrator" && $password=="12345678"){
+						if($enuname=="administrator"){
                         	$_SESSION["admin"] = "admin";
                              header("Location:admin.php");
                         }
