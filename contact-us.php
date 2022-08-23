@@ -6,14 +6,14 @@ include 'manageUser.php';
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Sign Up</title>
+	<title></title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
 	<div class="wrapper">
 		<div class="nav">
 			<div class="logo">
-			 <a style="text-decoration: none;color: #fff; " href="index.php">መንጃ ፍቃድ መማርያ</a>
+			 <a style="text-decoration: none;color: #fff; " href="index.php">ሴፍ ዞን</a>
 		</div>
 		<div class="menu">
 			<ul>
