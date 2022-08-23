@@ -192,14 +192,9 @@
         	<div class="container">
         		<div class="row">
         			<div class="col-lg-8 col-lg-offst-2" style="padding-left: 50px;">
-        				<form method="post" action="search-content.php">
-        			<input type="text" name="search" class="searchIn" placeholder="ፈልግ">
-        			<input type="submit" value="ፈልግ">
-        			 
-        			 </form>
         				<h1><?php echo $title; ?> </h1>
         				<p>
-        					<?php echo $content; ?>
+						<?php echo nl2br($content); ?>
         				</p>
  
         				

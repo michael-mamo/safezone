@@ -256,7 +256,7 @@ p {
         			<div class="col-lg-8 col-lg-offst-2" style="padding-left: 50px;">
         				<h1><?php echo $title; ?> </h1>
         				<p>
-        					<?php echo $content; ?>
+        					<?php echo nl2br($content); ?>
         				</p>
         				
         			</div>

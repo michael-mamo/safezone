@@ -32,7 +32,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Tutorial-ምእራፍ 9</title>
+	<title>Change Password</title>
 	<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 
