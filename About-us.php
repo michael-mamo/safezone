@@ -23,11 +23,11 @@
 	</div>	
 	<div class="header">
 		
-		<h3>Developer</h3>
+		<h3>ስለ እኛ</h3>
 <div class="deve">
 	<ul>
 		<li><div style="color: #fff; display: inline-block;">
-			<h4>Kaleab </h4><i>kaleb@gmail.com</i><br><br><i style="color: #fafafa"> +2512992933</i>
+			<h4>ሴፍ ዞን </h4><i>safezone@gmail.com</i><br><br><i style="color: #fafafa"> ስልክ ቁጥር 1:- +2512992933</i><br><i style="color: #fafafa"> ስልክ ቁጥር 2:- +2512992933</i>
 		</div>
 	</li>
 	</ul>
