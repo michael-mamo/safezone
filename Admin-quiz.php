@@ -64,15 +64,15 @@ if (isset($_POST['delete'])) {
 
     $delete_query = "DELETE FROM questions WHERE question_number = '$question_number'"; 
 	$delete_choices = "DELETE FROM choices WHERE question_number = '$question_number'"; 
-    $delete_question = $mysqli_query($mysqli, $delete_query);
-	$delete_choice = $mysqli_query($mysqli, $delete_choices);
+    $delete_question = mysqli_query($mysqli, $delete_query);
+	$delete_choice = mysqli_query($mysqli, $delete_choices);
     if($delete_question && $delete_choice){
 			echo "<script>alert('ጥያቄው ጠፍቷል!')</script>";
     	}
      $msg2 = 'ጥያቄው ተፍቷል';
     }
 
- $q = "SELECT * FROM questions order by ";
+ $q = "SELECT * FROM questions";
     $r = $mysqli->query($q) or die($mysqli->error.__LINE__);
     $total = $r->num_rows;
     $next = $total+1; 
@@ -291,7 +291,7 @@ li a {
                 
                   <p>
                     <label>ጥያቄ ቁጥር</label>
-                    <input type="number" name="question_number_1"  value="<?php echo $next; ?>" style="width: auto;" required onclick="greenBorder('uemail')";>
+                    <input type="number" name="question_number"  value="<?php echo $next; ?>" style="width: auto;" required onclick="greenBorder('uemail')";>
                   </p>
                   <p>
                     <label>ጥያቄ: </label>
