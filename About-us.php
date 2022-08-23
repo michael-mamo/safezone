@@ -1,18 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-	<title>Home</title>
+	<meta charset="UTF-8">
+	<title>ሴፍ ዞን መንጃ ፈቃድ መማሪያ</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
-	<link rel="stylesheet" type="text/css" href="css/jemari.css">
-	<link rel="stylesheet" type="text/css" href="css/font-awesome.css">
-	
 </head>
 <body>
-	<div class="wrapper">
+<div class="wrapper">
 		<div class="nav">
 			<div class="logo">
-			 <a style="text-decoration: none;color: #fff; " href="index.php">መንጃ ፍቃድ መማርያ</a>
+			 <a style="text-decoration: none;color: #fff; " href="index.php">ሴፍ ዞን</a>
 		</div>
 		<div class="menu">
 			<ul>
