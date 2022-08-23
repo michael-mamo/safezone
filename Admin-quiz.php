@@ -63,7 +63,7 @@ if (isset($_POST['delete'])) {
 	$question_number = $_POST['question_number'];
 
     $delete_query = "DELETE FROM questions WHERE question_number = '$question_number'"; 
-	$delete_choice = "DELETE FROM choice WHERE question_number = '$question_number'"; 
+	$delete_choice = "DELETE FROM choices WHERE question_number = '$question_number'"; 
     $delete_question = $mysqli->query($delete_query) or die($mysqli->error.__LINE__);
 	$delete_choice = $mysqli->query($delete_choice) or die($mysqli->error.__LINE__);
     if($delete_question && $delete_choice){
