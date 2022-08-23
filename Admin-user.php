@@ -235,10 +235,10 @@ if (isset($_POST['insert']))
     {
       if(mysqli_affected_rows($connection) > 0)
       {
-        echo "<script> alert('Data Inserted');</script>";
+        echo "<script> alert('ተጠቃሚው ተመዝግቧል');</script>";
       }
       else{
-        echo "<script> alert('Data Not Inserted');</script>";
+        echo "<script> alert('ተጠቃሚው አልተመዘገበም');</script>";
       }
     }
 }
@@ -278,7 +278,7 @@ if (isset($_POST['insert']))
         </div>
         <div class="form-field">
         <label>መጠቀሚያ ስም</label>
-        <input type="text" name="username" id = "uemail" placeholder="መጠቀሚያ ስልክ">
+        <input type="text" name="username" id = "uemail" placeholder="መጠቀሚያ ስም">
         </div>
         <div class="form-field">
         <label>የይለፍ ቃል</label>

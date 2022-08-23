@@ -66,9 +66,7 @@
                         }
                         $enuname = $_POST['uname'];
                         $password = $_POST['Password_1'];
-						echo "<script> alert('success".$_POST['uname']." ".$_POST['Password_1']."'); </script>";
 						$enpassword = md5($password);
-						
                         $sql = "SELECT * FROM user WHERE username = '$enuname'  AND  password = '$enpassword'";
                         $result = mysqli_query($connection, $sql);
                         $count = mysqli_num_rows($result);
