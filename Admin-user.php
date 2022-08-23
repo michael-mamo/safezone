@@ -213,10 +213,9 @@ li a {
               $upassword = $_POST['password'];
               $password = md5($upassword); 
               $posts = array();
-              $posts[0] = $_POST['id'];
-              $posts[1] = $_POST['phone'];
-              $posts[2] = $_POST['username'];
-              $posts[3] = $password;
+              $posts[0] = $_POST['phone'];
+              $posts[1] = $_POST['username'];
+              $posts[2] = $password;
               return $posts;
 
             }
@@ -224,7 +223,7 @@ li a {
 if (isset($_POST['insert'])) 
 {
   $data = getPosts();
-   $insert_Query = "insert into user (email ,username , password) values ('$data[1]', '$data[2]','$data[3]')";
+   $insert_Query = "insert into user (email ,username , password) values ('$data[0]', '$data[1]','$data[2]')";
  
     $insert_Result = mysqli_query($connection, $insert_Query);
 

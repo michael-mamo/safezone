@@ -61,12 +61,12 @@
 						$db_password = '0740730@Root';
 						$connection = new mysqli($db_host, $db_user, $db_password, $db_name);
                         if(!$connection){
-                            echo 'Connection Lost';
+                            echo "<script> alert('connection is lost'); </script>";
                             die();
                         }
-                        $enuname = $_POST["uname"];
-                        $password = $_POST["Password_1"];
-						$enpassword = md5($_POST["Password_1"]);
+                        $enuname = $_POST['uname'];
+                        $password = $_POST['Password_1'];
+						$enpassword = md5($password);
 						
                         $sql = "SELECT * FROM user WHERE username = '$enuname'  AND  password = '$enpassword'";
                         $result = mysqli_query($connection, $sql);
