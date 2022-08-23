@@ -274,8 +274,7 @@ li a {
                 
                   <p>
                     <label>ጥያቄ ቁጥር</label>
-					<input type="hidden" name="question_number" disabled value="<?php echo $next; ?>" style="width: auto;" required onclick="greenBorder('uemail')";>
-                    <input type="number" name="question_number_1" disabled value="<?php echo $next; ?>" style="width: auto;" required onclick="greenBorder('uemail')";>
+                    <input type="number" name="question_number_1"  value="<?php echo $next; ?>" style="width: auto;" required onclick="greenBorder('uemail')";>
                   </p>
                   <p>
                     <label>ጥያቄ: </label>
@@ -300,7 +299,7 @@ li a {
                     </p>
                     <p>
                     <label>መልስ ቁጥር</label>
-                   <input type="number" name="correct_choice" style="width: auto;"  onclick="greenBorder('uemail')";>
+                   <input type="number" min=1 max=4 name="correct_choice" style="width: auto;"  onclick="greenBorder('uemail')";>
                </p>
                     
                     
