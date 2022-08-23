@@ -6,9 +6,9 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	
 </head>
-<body>
+<body style ="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('css/background.jpg');">
 <div class="wrapper">
-		<div class="nav">
+		<div class="nav" style ="background-color: rgba(0,0,0,0.8);">
 			<div class="logo">
 			 <a style="text-decoration: none;color: #fff; " href="index.php">ሴፍ ዞን</a>
 		</div>
