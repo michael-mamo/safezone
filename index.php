@@ -32,8 +32,6 @@
 		  <p> አደጋን በጋራ እንከላከል
 		  </p>
 		 <button type="button"><a style="text-decoration: none;color: #fff; " href="Tutorial.php">መማርያ</a> </button>
-
-		 
 	</div>
 
 

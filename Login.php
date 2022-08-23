@@ -56,16 +56,16 @@
 <?php                   
                     if(isset($_POST['login'])){
                          $db_host = '109.70.148.58';
-            $db_name = 'safezoneelearnin_projectdb';
-            $db_user = 'safezoneelearnin_root';
-            $db_password = '0740730@Root';
-            $connection = new mysqli($db_host, $db_user, $db_password, $db_name);
+						$db_name = 'safezoneelearnin_projectdb';
+						$db_user = 'safezoneelearnin_root';
+						$db_password = '0740730@Root';
+						$connection = new mysqli($db_host, $db_user, $db_password, $db_name);
                         if(!$connection){
                             echo 'Connection Lost';
                             die();
                         }
                         $enuname = $_POST["uname"];
-                        $enpassword = $_POST["Password_1"];
+                        $enpassword = md5($_POST["Password_1"]);
 
                         $sql = "SELECT * FROM user WHERE username = '$enuname'  AND  password = '$enpassword'";
                         $result = mysqli_query($connection, $sql);
