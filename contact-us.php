@@ -20,7 +20,7 @@ include 'manageUser.php';
 				<li><a href="index.php">መነሻ ገጽ</a></li>
 				<li><a href="About-us.php">ስለእኛ</a></li>
 				<li><a href="contact-us.php">ያግኙን</a></li>
-				<li><a href="Login.php" style="color: yellow;">መግቢያ</a></li>
+				<li><a href="login.php" style="color: yellow;">መግቢያ</a></li>
 				<li><a href="Tutorial.php">መማርያ</a></li>
 			</ul>
 		</div>
@@ -46,7 +46,7 @@ include 'manageUser.php';
 				
 				<div class="form-field form-group">
 					<label>መልክት: </label>
-                    <textarea name="message" cols="45" rows="5" required > </textarea>
+                    <textarea name="message" rows="5" required > </textarea>
 				</div>
 				
 				<input type="submit" value="ላክ" class="btn" name="contact">

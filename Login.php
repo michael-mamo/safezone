@@ -27,7 +27,7 @@
 	<div class="header">
 		<div class="wht">
 		<div class="form-area" style="background-color: rgba(0,0,0,0.6);">
-			<form name="myForm" action="Login.php" onsubmit="return validate()" method="post">
+			<form name="myForm" action="login.php" onsubmit="return validate()" method="post">
 			    <div class="form-field">
 			    	
 					<h3>መግቢያ</h3>

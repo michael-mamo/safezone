@@ -12,17 +12,17 @@
 	
 </head>
 <body>
-	<div class="wrapper ">
-		<div class="nav Section_top">
-			<div class="logo contentn">
+<div class="wrapper">
+		<div class="nav">
+			<div class="logo">
 			 <a style="text-decoration: none;color: #fff; " href="index.php">መንጃ ፍቃድ መማርያ</a>
 		</div>
 		<div class="menu">
 			<ul>
 				<li><a href="index.php">መነሻ ገጽ</a></li>
 				<li><a href="About-us.php">ስለእኛ</a></li>
-				<li><a href="contact-us">ያግኙን</a></li>
-				<li><a href="Login.php" style="color: yellow;">መግቢያ</a></li>
+				<li><a href="contact-us.php">ያግኙን</a></li>
+				<li><a href="login.php" style="color: yellow;">መግቢያ</a></li>
 				<li><a href="Tutorial.php">መማርያ</a></li>
 			</ul>
 		</div>
