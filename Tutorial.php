@@ -212,8 +212,7 @@ p {
                 <div class="left-menu">
                 	<ul>
                 <li><a href="change.php"><?php echo $user; ?></a></li>
-                <li><a href="userReport.php"> ሪፖርት</a></li>
-                <li><a href="revision.php"> ክለሳ</a></li>
+                <li><a href="userReport.php"> የፈተና ዉጤቶቼ</a></li>
                 <li><a href="logout.php"> ውጣ</a></li>
 
                 </ul>
