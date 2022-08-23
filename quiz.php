@@ -4,7 +4,7 @@ include 'database.php';
 
  }
  else
-    header('location:login.php');
+    header('location:Login.php');
 
 ?>
 <?php 
