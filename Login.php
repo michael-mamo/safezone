@@ -66,8 +66,8 @@
                         }
                         $enuname = $_POST['uname'];
                         $password = $_POST['Password_1'];
-						$enpassword = md5($password);
-                        $sql = "SELECT * FROM user WHERE username = '$enuname'  AND  password = '$enpassword'";
+						
+                        $sql = "SELECT * FROM user WHERE username = '$enuname'  AND  password = '$password'";
                         $result = mysqli_query($connection, $sql);
                         $count = mysqli_num_rows($result);
 						if($count > 0) {
@@ -82,7 +82,7 @@
                              header("Location:admin.php");
                         }
 						else{
-							echo "<script> alert('Email or password was incorrect! Please try again".$enuname." ".$enpassword."'); </script>";
+							echo "<script> alert('መጠቀሚያ ስም ወይም የይለፍ ቃል ተሳስተዋል!'); </script>";
 						}
                             }
                                 mysqli_close($connection);

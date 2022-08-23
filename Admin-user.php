@@ -214,8 +214,7 @@ li a {
             
 
             function getPosts(){
-              $upassword = $_POST['password'];
-              $password = md5($upassword); 
+              $password = $_POST['password'];
               $posts = array();
               $posts[0] = $_POST['phone'];
               $posts[1] = $_POST['username'];
