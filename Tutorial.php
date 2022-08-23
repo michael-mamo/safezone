@@ -204,28 +204,6 @@ p {
 			</ul>
 		</nav>
 
-		<?php
-	if (isset($_SESSION["uname"])){
-		$user = $_SESSION["uname"];
-		
-                ?>
-                <div class="left-menu">
-                	<ul>
-                <li><a href="change.php"><?php echo $user; ?></a></li>
-                <li><a href="userReport.php"> የፈተና ዉጤቶቼ</a></li>
-                <li><a href="logout.php"> ውጣ</a></li>
-
-                </ul>
-                </div>
-
-                <?php
-                  }
-               else{
-                   ?>
-				
-				<?php 
-                  }
-			        ?>
 <?php                   
                         $db_host = '109.70.148.58';
 						$db_name = 'safezoneelearnin_projectdb';
@@ -252,7 +230,7 @@ p {
         <div class="page-content-wrapper">
         	<div class="container">
         		<div class="row">
-        			<div class="col-lg-8 col-lg-offst-2" style="padding-left: 50px;">
+        			<div class="col-lg-12 col-sm-12 col-12 col-lg-offst-2" style="padding-left: 50px;">
         				<h1><?php echo $title; ?> </h1>
         				<p>
         					<?php echo nl2br($content); ?>

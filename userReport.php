@@ -199,7 +199,7 @@ include 'database.php';
                   
                 <table width="400" border="2" cellpadding="2" cellspacing="1">
                   <tr bgcolor="#2ECCFA">
-                    <th>ስም</th>
+                    <th>ስም</th>W
                     <th>ውጤት</th>
                   </tr>
                   <?php 
