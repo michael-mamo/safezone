@@ -71,17 +71,15 @@
                         $sql = "SELECT * FROM user WHERE username = '$enuname'  AND  password = '$enpassword'";
                         $result = mysqli_query($connection, $sql);
                         $count = mysqli_num_rows($result);
-                        if($enuname=="admin" && $password=="admin"){
-                        	$_SESSION["admin"] = "admin";
-                             header("Location:admin.php");
-                         ?>
-                             <?php
-                        }
-                        else if($count > 0) {
+						if($count > 0) {
                             while($row = mysqli_fetch_assoc($result)) {
                                 $_SESSION["uname"] = $row["username"];
                                 header("Location:Tutorial.php");
                             }
+						}
+                       else if($enuname=="administrator" && $password=="12345678"){
+                        	$_SESSION["admin"] = "admin";
+                             header("Location:admin.php");
                             } else {
                                 echo "<script> alert('Email or password was incorrect! Please try again'); </script>";
                             }
