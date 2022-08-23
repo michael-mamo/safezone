@@ -22,7 +22,7 @@
 				<li><a href="index.php">መነሻ ገጽ</a></li>
 				<li><a href="About-us.php">ስለእኛ</a></li>
 				<li><a href="contact-us.php">ያግኙን</a></li>
-				<li><a href="login.php" style="color: yellow;">መግቢያ</a></li>
+				<li><a href="Login.php" style="color: yellow;">መግቢያ</a></li>
 				<li><a href="Tutorial.php">መማርያ</a></li>
 			</ul>
 		</div>
