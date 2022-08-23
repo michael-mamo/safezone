@@ -348,7 +348,7 @@ if (isset($_POST['update']))
                     <br><br><br>
                   
                     <label>ምእራፍ</label>
-                    <textarea name="content" cols="45" rows="15" required="onclick"> <?php echo $content;?></textarea>
+                    <textarea name="content" cols="45" rows="50" required="onclick"> <?php echo $content;?></textarea>
                  
                     <br><br><br>
         </div>
