@@ -82,7 +82,7 @@
                              header("Location:admin.php");
                         }
 						else{
-							echo "<script> alert('Email or password was incorrect! Please try again".$enuname." ".$password."'); </script>";
+							echo "<script> alert('Email or password was incorrect! Please try again".$enuname." ".$enpassword."'); </script>";
 						}
                             }
                                 mysqli_close($connection);
