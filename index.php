@@ -27,7 +27,7 @@
 			</ul>
 		</div>
 	</div>	
-	<div class="header">
+	<div style="margin-top:10px;" class="header">
 		<h1> መንጃ ፍቃድ መማርያ</h1>
 		  <p> አደጋን በጋራ እንከላከል
 		  </p>
