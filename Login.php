@@ -65,12 +65,13 @@
                             die();
                         }
                         $enuname = $_POST["uname"];
-                        $enpassword = md5($_POST["Password_1"]);
-
+                        $password = $_POST["Password_1"];
+						$enpassword = md5($_POST["Password_1"]);
+						
                         $sql = "SELECT * FROM user WHERE username = '$enuname'  AND  password = '$enpassword'";
                         $result = mysqli_query($connection, $sql);
                         $count = mysqli_num_rows($result);
-                        if($enuname=="admin" && $enpassword=="admin"){
+                        if($enuname=="admin" && $password=="admin"){
                         	$_SESSION["admin"] = "admin";
                              header("Location:admin.php");
                          ?>
