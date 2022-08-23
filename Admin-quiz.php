@@ -63,9 +63,9 @@ if (isset($_POST['delete'])) {
 	$question_number = $_POST['question_number'];
 
     $delete_query = "DELETE FROM questions WHERE question_number = '$question_number'"; 
-	$delete_choice = "DELETE FROM choices WHERE question_number = '$question_number'"; 
-    $delete_question = $mysqli_query($delete_query, $mysqli);
-	$delete_choice = $mysqli_query($delete_choice, $mysqli);
+	$delete_choices = "DELETE FROM choices WHERE question_number = '$question_number'"; 
+    $delete_question = $mysqli_query($mysqli, $delete_query);
+	$delete_choice = $mysqli_query($mysqli, $delete_choices);
     if($delete_question && $delete_choice){
 			echo "<script>alert('ጥያቄው ጠፍቷል!')</script>";
     	}
