@@ -205,8 +205,6 @@ p {
         				<p>
         					<?php echo nl2br($content); ?>
         				</p>
- 
-        				
         			</div>
         			
         		</div>
