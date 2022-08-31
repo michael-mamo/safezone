@@ -193,15 +193,14 @@
         				
 
      
-        <div class="page-content-wrapper">
+						<div class="page-content-wrapper">
         	<div class="container">
         		<div class="row">
         			<div class="col-lg-12 col-sm-12 col-12 col-lg-offst-2" style="padding-left: 50px;">
         				<h1><?php echo $title; ?> </h1>
         				<p>
         					<?php echo nl2br($content); ?>
-					</p>
-        				
+        				</p>
         			</div>
         			
         		</div>
