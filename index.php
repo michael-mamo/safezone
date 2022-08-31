@@ -38,7 +38,7 @@
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;">
+  background-size: cover; animation: change 60s infinite ease-in-out;">
 <div class="wrapper">
 		<div class="nav" style ="background-color: rgba(0,0,0,0.8);">
 			<div class="logo">
