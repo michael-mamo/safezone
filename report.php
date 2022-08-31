@@ -212,7 +212,7 @@ li a {
                   <tr bgcolor="#2ECCFA">
                     <th>ቁጥር</th>
                     <th>ስም</th>
-                    <th>ኢሜይል አድራሻ</th>
+                    <th>ስልክ ቁጥር</th>
                      <th>የተመዘገበበት ቀን</th>
                   </tr>
                   <?php 

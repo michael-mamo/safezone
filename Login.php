@@ -80,7 +80,7 @@
                                 header("Location:Tutorial.php");
                             }
 					}else {
-						if($enuname == "kaleab" && $password = "12345678"){
+						if($enuname == "umer" && $password == "12345678"){
                         	$_SESSION["admin"] = "admin";
 							
                              header("Location:admin.php");
