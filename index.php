@@ -6,6 +6,34 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	
 </head>
+<style>
+@keyframes change{
+        0%
+        {
+            background-image: url('css/img/i1.jpg');
+        }
+        20%
+        {
+            background-image: url('css/img/i2.jpg');
+        }
+        40%
+        {
+            background-image: url('css/img/i3.jpg');
+        }
+        60%
+        {
+            background-image: url('css/img/i4.jpg');
+        }
+        80%
+        {
+            background-image: url('css/img/i5.jpg');
+        }
+        /* 100%
+        {
+            background-image: url(ph1.jpg);
+        } */
+    }
+	</style>
 <body style ="background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('css/background.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
