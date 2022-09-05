@@ -171,7 +171,11 @@
 		<?php session_start(); ?>
 		
   <?php                   
-                        $con = mysqli_connect("localhost","root","","projectdb");
+                        $db_host = '109.70.148.58';
+						$db_name = 'safezoneelearnin_projectdb';
+						$db_user = 'safezoneelearnin_root';
+						$db_password = '0740730@Root';
+						$con = new mysqli($db_host, $db_user, $db_password, $db_name);
                         if(!$con){
                             echo 'Connection Lost';
                             die();
