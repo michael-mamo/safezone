@@ -86,7 +86,7 @@
                              header("Location:admin.php");
                         }
 						else{
-							echo "<script> alert('መጠቀሚያ ስም ወይም የይለፍ ቃል ተሳስተዋል!!'); </script>";
+							echo "<script> alert('መጠቀሚያ ስም ወይም የይለፍ ቃል ተሳስተዋል!!!'); </script>";
 						}
                             }
                                 mysqli_close($connection);
