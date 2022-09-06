@@ -221,7 +221,7 @@ li a {
                 <div class="col-lg-8 col-lg-offst-2" style="padding-left: 50px; margin-top: -40px;">
         				<h1>ማስታወቂያ</h1>
 
-                <table width="700" border="2" cellpadding="2" cellspacing="2">
+                <table width="100%" border="2" cellpadding="2" cellspacing="2">
                   <tr bgcolor="#2ECCFA">
                     <th>ማስታወቂያ ርዕስ</th>
                     <th>ማስታወቂያ</th>
