@@ -28,7 +28,7 @@ if(!$connection){
         $ad_title = $_POST['ad_title'];
 	    $ad_detail = $_POST['ad_detail'];
 	    $ad_date = $_POST['ad_date'];
-        $insert_Query = "insert into ad (ad_title ,ad_detail, ad_date) values ('$ad_title', '$ad_detail',$ad_date)";
+        $insert_Query = "insert into ad (ad_title ,ad_detail, ad_date) values ('$ad_title', '$ad_detail','$ad_date')";
       
          $insert_Result = mysqli_query($connection, $insert_Query);
      
