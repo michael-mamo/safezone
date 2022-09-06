@@ -218,7 +218,7 @@ li a {
         <div class="page-content-wrapper">
         	<div class="container">
         		<div class="row">
-                <div class="col-lg-12 col-12" style="padding-left: 50px; margin-top: -40px;">
+                <div class="col-lg-12 col-12" style="padding-left: 50px; margin-top: -40px; padding-left: 50px;">
         				<h1>ማስታወቂያ</h1>
 
                 <table width="100%" border="2" cellpadding="2" cellspacing="2">
