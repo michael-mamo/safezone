@@ -20,9 +20,6 @@ if(!$connection){
       echo 'Connection Lost';
       die();
   }
-	
-
-
      if (isset($_POST['insert'])) 
      {
         $ad_title = $_POST['ad_title'];
