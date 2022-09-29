@@ -10,11 +10,11 @@
 @keyframes change{
         0%
         {
-            background-image: url('https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZHJpdmluZ3xlbnwwfHwwfHw%3D&w=1000&q=80');
+            background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fdriving-licence&psig=AOvVaw1pz-rBeOcagNNN43M_mknx&ust=1664523156193000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOj_0Le-ufoCFQAAAAAdAAAAABAD');
         }
         20%
         {
-            background-image: url('https://media.istockphoto.com/photos/cute-young-success-happy-brunette-woman-is-driving-a-car-picture-id1223392906?k=20&m=1223392906&s=612x612&w=0&h=synhQ0D3qMYilpP6ZRJsnXPigBSXnbv4jFZLAeXqrLY=');
+            background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Fdriving-license&psig=AOvVaw1pz-rBeOcagNNN43M_mknx&ust=1664523156193000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOj_0Le-ufoCFQAAAAAdAAAAABAO');
         }
         40%
         {
