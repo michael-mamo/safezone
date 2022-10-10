@@ -34,7 +34,7 @@
         } */
     } */
 	</style>
-<body style ="background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('https://img.freepik.com/free-vector/elegant-business-shapes-transparent-background_1361-727.jpg?w=2000') no-repeat center center fixed; 
+<body style ="background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('https://media.istockphoto.com/photos/commercial-driver-picture-id940298922?k=20&m=940298922&s=612x612&w=0&h=BCzshJsLmdcp0MTtA_8qjpjKQCFLAs5GXuhZeryoEnM=') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
