@@ -7,7 +7,7 @@
 	
 </head>
 <style>
-@keyframes change{
+/* @keyframes change{
         0%
         {
             background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fdriving-licence&psig=AOvVaw1pz-rBeOcagNNN43M_mknx&ust=1664523156193000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOj_0Le-ufoCFQAAAAAdAAAAABAD');
@@ -32,9 +32,9 @@
         {
             background-image: url(ph1.jpg);
         } */
-    }
+    } */
 	</style>
-<body style ="background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('css/background.jpg') no-repeat center center fixed; 
+<body style ="background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('https://img.freepik.com/free-vector/elegant-business-shapes-transparent-background_1361-727.jpg?w=2000') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
