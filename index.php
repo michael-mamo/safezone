@@ -34,7 +34,7 @@
         } */
     } */
 	</style>
-<body style ="background-image: url('https://media.istockphoto.com/photos/commercial-driver-picture-id940298922?k=20&m=940298922&s=612x612&w=0&h=BCzshJsLmdcp0MTtA_8qjpjKQCFLAs5GXuhZeryoEnM='); linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),  no-repeat center center fixed; 
+<body style ="background-image: url('img/background.jpg'); linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),  no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
