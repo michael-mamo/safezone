@@ -30,7 +30,7 @@
 <div class="deve">
 	<ul>
 		<li><div style="color: #fff; display: inline-block;">
-			<h4>ሴፍ ዞን </h4><i>https://safezonedriverstraininginstitute.com/</i><br><br><i style="color: #fafafa"> ስልክ ቁጥር 1:- + 251-911-524-860</i><br><br><i style="color: #fafafa"> ኢሜይል 2:- info@safezonedriverstraininginstitute.com
+			<h4>ሴፍ ዞን </h4><a target ="blank_" href="https://safezonedriverstraininginstitute.com/"> ድህረ ገጽ </i><br><br><i style="color: #fafafa"> ስልክ ቁጥር 1:- + 251-911-524-860</i><br><br><i style="color: #fafafa"> ኢሜይል 2:- info@safezonedriverstraininginstitute.com
 
 </i>
 		</div>
