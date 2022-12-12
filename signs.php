@@ -244,7 +244,7 @@ img {
         				<h4>የሚያስጠነቅቁ የመንገድ ዳር ምልክቶች</h4>
                         <img src="img/Signs/yemiastenekeku/Capture1.PNG" class="modal-open" data-modal="modal1" width="80" height="80;">
 	                    <img src="img/Signs/yemiastenekeku/Capture2.PNG" class="modal-open" data-modal="modal2" width="80" height="80;">
-	                    <img src="img/Signs/yemiastenekeku/Capture3.PNG" class="modal-open" data-modal="modal3" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/capture3.PNG" class="modal-open" data-modal="modal3" width="80" height="80;">
 	                     <img src="img/Signs/yemiastenekeku/Capture4.PNG" class="modal-open" data-modal="modal4" width="80" height="80;">
 	                    <img src="img/Signs/yemiastenekeku/Capture5.PNG" class="modal-open" data-modal="modal5" width="80" height="80;">
 	                    <img src="img/Signs/yemiastenekeku/Capture6.PNG" class="modal-open" data-modal="modal6" width="80" height="80;">

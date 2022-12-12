@@ -243,7 +243,7 @@ img {
         			<div class="col-lg-8 col-lg-offst-2" style="padding-left: 50px;">
         				<h1> መንገድ ምልክቶች </h1>
         				<h4>መረጃ የሚሰጡ</h4>
-                        <img src="img/Signs/merejaSechi/Capture1.PNG" class="modal-open" data-modal="modal1" width="80" height="80;">
+                        <img src="img/Signs/merejaSechi/capture1.PNG" class="modal-open" data-modal="modal1" width="80" height="80;">
 	                    <img src="img/Signs/merejaSechi/Capture2.PNG" class="modal-open" data-modal="modal2" width="80" height="80;">
 	                    <img src="img/Signs/merejaSechi/Capture3.PNG" class="modal-open" data-modal="modal3" width="80" height="80;">
 	                     <img src="img/Signs/merejaSechi/Capture4.PNG" class="modal-open" data-modal="modal4" width="80" height="80;">
