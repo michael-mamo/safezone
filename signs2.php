@@ -150,13 +150,14 @@ img {
 		transition: ease-in all 0.2s;
 }
 .btn1 {
-		margin: 15px;
+	margin: 15px;
 		text-align: center;
 		padding: 10px;
 		background-color: yellow;
 		width: 20%;
 		color: white;
 		border-radius: 6px;
+		border-color: yellow;
 		font-weight: bold;
 		text-transform: uppercase;
 		box-shadow: 0 2px 3px 0 rgba(10,10,10,0.1);
@@ -242,71 +243,85 @@ img {
         			<div class="col-lg-8 col-lg-offst-2" style="padding-left: 50px;">
         				<h1> መንገድ ምልክቶች </h1>
         				<h4> ቅድሚያ የሚያሰጡ</h4>
-                        <img src="img/im1.jpg" class="modal-open" data-modal="modal1" width="80" height="80;">
-	                    <img src="img/im2.jpg" class="modal-open" data-modal="modal2" width="80" height="80;">
-	                    <img src="img/im3.jpg" class="modal-open" data-modal="modal3" width="80" height="80;">
-	                     <img src="img/im4.jpg" class="modal-open" data-modal="modal4" width="80" height="80;">
-	                    <img src="img/im5.jpg" class="modal-open" data-modal="modal5" width="80" height="80;">
-	                    <img src="img/im6.jpg" class="modal-open" data-modal="modal6" width="80" height="80;">
-	                     <img src="img/im7.jpg" class="modal-open" data-modal="modal7" width="80" height="80;">
-	                    <br>
+						<img src="img/Signs/kedmiaYemiasetu/Capture1.png" class="modal-open" data-modal="modal1" width="80" height="80;">
+						<img src="img/Signs/kedmiaYemiasetu/Capture2.png" class="modal-open" data-modal="modal2" width="80" height="80;">
+						<img src="img/Signs/kedmiaYemiasetu/Capture3.png" class="modal-open" data-modal="modal3" width="80" height="80;">
+						<img src="img/Signs/kedmiaYemiasetu/Capture4.png" class="modal-open" data-modal="modal4" width="80" height="80;">
+						<img src="img/Signs/kedmiaYemiasetu/Capture5.png" class="modal-open" data-modal="modal5" width="80" height="80;">
+						<img src="img/Signs/kedmiaYemiasetu/Capture6.png" class="modal-open" data-modal="modal6" width="80" height="80;">
+						<img src="img/Signs/kedmiaYemiasetu/Capture7.png" class="modal-open" data-modal="modal7" width="80" height="80;">
+						<img src="img/Signs/kedmiaYemiasetu/Capture8.png" class="modal-open" data-modal="modal8" width="80" height="80;">
+						<img src="img/Signs/kedmiaYemiasetu/Capture9.png" class="modal-open" data-modal="modal9" width="80" height="80;">
                      <br>
                       <br>
 
-    <button class="btn"><a href="signs.php">የሚያስጠነቅቁ</a></button> 
-    <button class="btn"><a href="signs1.php"> የሚከለክሉ</a></button>
+    <button class="btn1"><a href="signs.php">የሚያስጠነቅቁ</a></button> 
+    <button class="btn1"><a href="signs1.php"> የሚከለክሉ</a></button>
     <button class="btn1"><a href="signs2.php"> ቅድሚያ የሚያሰጡ</a></button>
-    <button class="btn2"><a href="signs3.php"> የሚያስገድዱ</a></button>
-    <button class="btn2"><a href="signs4.php"> መረጃ የሚሰጡ</a></button>
+    <button class="btn1"><a href="signs3.php"> የሚያስገድዱ</a></button>
+    <button class="btn1"><a href="signs4.php"> መረጃ የሚሰጡ</a></button>
 
      <div class="modal" id="modal1">
 	 	<div class="modal-content">
-	 		መንገዱ ፊት ለፊትና ወደቀኝ የሚያስኬድ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		ቁም! ይህ ምልክት ባለበት ማንኛውም የሚመጣ ተሽከርካሪ መስቀለኛ መንገድ ከመግባቱ በፊት መቆም አለበት  
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal2">
 	 	<div class="modal-content">
-	 		 መንገዱ ፊት ለፊትና ወደግራ የሚያስኬድ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 ቅድሚያ ያለው መንገድ የሚያመለክት ነው
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal3">
 	 	<div class="modal-content">
-	 		 መንገዱ ፊት ለፊትና ወደቀኝ የሚታጠፍ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		ቅድሚያ ያለው መንገድ የሚለው ምልክት ትዕዛዝ መጨረሻ 
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal4">
 	 	<div class="modal-content">
-	 		 መንገዱ ፊት ለፊትና ወደግራ የሚታጠፍ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 ከወደፊት ለሚመጣ ተሽከርካሪ ቅድሚያ ስጥ
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal5">
 	 	<div class="modal-content">
-	 		 ወደቀኝ የሚገነጠል መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 በመንገደኛ መንገድ ላይ ተላላፊ ቅድሚያ በመስጠት ተጠንቅቀህ እለፍ  
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal6">
 	 	<div class="modal-content">
-	 		 ወደግራ የሚገነጠል መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 የደሴቱን ቀኝ በመያዝ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal7">
 	 	<div class="modal-content">
-	 		 መንገዱ ወደግራ ስለሚታጠፍ ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 የደሴቱን ግራ በመያዝ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
+	 <div class="modal" id="modal8">
+	 	<div class="modal-content">
+	 		 ለአንድ ረድፍ ከተቀመጠ አነስተኛ ፍጥነት በላይ ማሽከርከር የሚያስገድድ ነው
+	 		<div class="modal-close">+</div>
+	 	</div>
+	 </div>
+	 <div class="modal" id="modal7">
+	 	<div class="modal-content">
+	 		 በተለያየ ረድፍ ዉስጥ ተፈጻሚ እንዲሆን የተቀመጠ የፍጥነት ወሰን የሚያመለክት 
+	 		<div class="modal-close">+</div>
+	 	</div>
+	 </div>
+
 
                          </div>
         			</div>

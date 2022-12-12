@@ -149,13 +149,14 @@ img {
 		transition: ease-in all 0.2s;
 }
 .btn1 {
-		margin: 15px;
+	margin: 15px;
 		text-align: center;
 		padding: 10px;
+		background-color: yellow;
 		width: 20%;
 		color: white;
-		background-color: yellow;
 		border-radius: 6px;
+		border-color: yellow;
 		font-weight: bold;
 		text-transform: uppercase;
 		box-shadow: 0 2px 3px 0 rgba(10,10,10,0.1);
@@ -240,188 +241,190 @@ img {
         		<div class="row">
         			<div class="col-lg-8 col-lg-offst-2" style="padding-left: 50px;">
         				<h1> መንገድ ምልክቶች </h1>
-        				<h4>የሚያስጠነቅቁ</h4>
-                        <img src="img/img1.jpg" class="modal-open" data-modal="modal1" width="80" height="80;">
-	                    <img src="img/img2.jpg" class="modal-open" data-modal="modal2" width="80" height="80;">
-	                    <img src="img/img3.jpg" class="modal-open" data-modal="modal3" width="80" height="80;">
-	                     <img src="img/img4.jpg" class="modal-open" data-modal="modal4" width="80" height="80;">
-	                    <img src="img/img5.jpg" class="modal-open" data-modal="modal5" width="80" height="80;">
-	                    <img src="img/img6.jpg" class="modal-open" data-modal="modal6" width="80" height="80;">
-	                     <img src="img/img7.jpg" class="modal-open" data-modal="modal7" width="80" height="80;">
-	                    <img src="img/img8.jpg" class="modal-open" data-modal="modal8" width="80" height="80;">
-	                    <img src="img/img9.jpg" class="modal-open" data-modal="modal9" width="80" height="80;">
-	                     <img src="img/img10.jpg" class="modal-open" data-modal="modal10" width="80" height="80;">
-	                    <img src="img/img11.jpg" class="modal-open" data-modal="modal11" width="80" height="80;">
-	                    <img src="img/img12.jpg" class="modal-open" data-modal="modal12" width="80" height="80;">
-	                     <img src="img/img13.jpg" class="modal-open" data-modal="modal13" width="80" height="80;">
-	                    <img src="img/img14.jpg" class="modal-open" data-modal="modal14" width="80" height="80;">
-	                    <img src="img/img15.jpg" class="modal-open" data-modal="modal15" width="80" height="80;">
-	                     <img src="img/img16.jpg" class="modal-open" data-modal="modal16" width="80" height="80;">
-	                    <img src="img/img17.jpg" class="modal-open" data-modal="modal17" width="80" height="80;">
-	                    <img src="img/img18.jpg" class="modal-open" data-modal="modal18" width="80" height="80;">
-	                     <img src="img/img19.jpg" class="modal-open" data-modal="modal19" width="80" height="80;">
-	                    <img src="img/img20.jpg" class="modal-open" data-modal="modal20" width="80" height="80;">
-	                    <img src="img/img21.jpg" class="modal-open" data-modal="modal21" width="80" height="80;">
-	                     <img src="img/img22.jpg" class="modal-open" data-modal="modal22" width="80" height="80;">
-	                    <img src="img/img23.jpg" class="modal-open" data-modal="modal23" width="80" height="80;">
-	                    <img src="img/img24.jpg" class="modal-open" data-modal="modal24" width="80" height="80;">
-	                     <img src="img/img25.jpg" class="modal-open" data-modal="modal25" width="80" height="80;">
-	                    <img src="img/img26.jpg" class="modal-open" data-modal="modal26" width="80" height="80;">
-	                    <img src="img/img27.jpg" class="modal-open" data-modal="modal27" width="80" height="80;">
-	                     <img src="img/img28.jpg" class="modal-open" data-modal="modal28" width="80" height="80;">
-	                    <img src="img/img29.jpg" class="modal-open" data-modal="modal29" width="80" height="80;">
-	                    <img src="img/img30.jpg" class="modal-open" data-modal="modal30" width="80" height="80;">
-                        <img src="img/img31.jpg" class="modal-open" data-modal="modal31" width="80" height="80;">
-	                    <img src="img/img32.jpg" class="modal-open" data-modal="modal32" width="80" height="80;">
-	                    <img src="img/img33.jpg" class="modal-open" data-modal="modal33" width="80" height="80;">
-	                     <img src="img/img34.jpg" class="modal-open" data-modal="modal34" width="80" height="80;">
-	                    <img src="img/img35.jpg" class="modal-open" data-modal="modal35" width="80" height="80;">
-	                    <img src="img/img36.jpg" class="modal-open" data-modal="modal36" width="80" height="80;">
-	                     <img src="img/img37.jpg" class="modal-open" data-modal="modal37" width="80" height="80;">
-	                    <img src="img/img38.jpg" class="modal-open" data-modal="modal38" width="80" height="80;">
-	                    <img src="img/img39.jpg" class="modal-open" data-modal="modal39" width="80" height="80;">
-	                     <img src="img/img40.jpg" class="modal-open" data-modal="modal40" width="80" height="80;">
-	                    <img src="img/img41.jpg" class="modal-open" data-modal="modal41" width="80" height="80;">
-	                    <img src="img/img42.jpg" class="modal-open" data-modal="modal42" width="80" height="80;">
-	                     <img src="img/img43.jpg" class="modal-open" data-modal="modal43" width="80" height="80;">
-	                    <img src="img/img44.jpg" class="modal-open" data-modal="modal44" width="80" height="80;">
-	                    <img src="img/img45.jpg" class="modal-open" data-modal="modal45" width="80" height="80;">
-	                    <img src="img/img46.jpg" class="modal-open" data-modal="modal46" width="80" height="80;">
-	                    <img src="img/img47.jpg" class="modal-open" data-modal="modal47" width="80" height="80;">
-	                    <img src="img/img48.jpg" class="modal-open" data-modal="modal48" width="80" height="80;">
-	                     <img src="img/img49.jpg" class="modal-open" data-modal="modal49" width="80" height="80;">
-	                    <img src="img/img50.jpg" class="modal-open" data-modal="modal50" width="80" height="80;">
-	                    <img src="img/img51.jpg" class="modal-open" data-modal="modal51" width="80" height="80;">
-	                    <br>
+        				<h4>የሚያስጠነቅቁ የመንገድ ዳር ምልክቶች</h4>
+                        <img src="img/Signs/yemiastenekeku/Capture1.png" class="modal-open" data-modal="modal1" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture2.png" class="modal-open" data-modal="modal2" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture3.png" class="modal-open" data-modal="modal3" width="80" height="80;">
+	                     <img src="img/Signs/yemiastenekeku/Capture4.png" class="modal-open" data-modal="modal4" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture5.png" class="modal-open" data-modal="modal5" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture6.png" class="modal-open" data-modal="modal6" width="80" height="80;">
+	                     <img src="img/Signs/yemiastenekeku/Capture7.png" class="modal-open" data-modal="modal7" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture8.png" class="modal-open" data-modal="modal8" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture9.png" class="modal-open" data-modal="modal9" width="80" height="80;">
+	                     <img src="img/Signs/yemiastenekeku/Capture10.png" class="modal-open" data-modal="modal10" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture11.png" class="modal-open" data-modal="modal11" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture12.png" class="modal-open" data-modal="modal12" width="80" height="80;">
+	                     <img src="img/Signs/yemiastenekeku/Capture13.png" class="modal-open" data-modal="modal13" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture14.png" class="modal-open" data-modal="modal14" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture15.png" class="modal-open" data-modal="modal15" width="80" height="80;">
+	                     <img src="img/Signs/yemiastenekeku/Capture16.png" class="modal-open" data-modal="modal16" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture17.png" class="modal-open" data-modal="modal17" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture18.png" class="modal-open" data-modal="modal18" width="80" height="80;">
+	                     <img src="img/Signs/yemiastenekeku/Capture19.png" class="modal-open" data-modal="modal19" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture20.png" class="modal-open" data-modal="modal20" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture21.png" class="modal-open" data-modal="modal21" width="80" height="80;">
+	                     <img src="img/Signs/yemiastenekeku/Capture22.png" class="modal-open" data-modal="modal22" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture23.png" class="modal-open" data-modal="modal23" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture24.png" class="modal-open" data-modal="modal24" width="80" height="80;">
+	                     <img src="img/Signs/yemiastenekeku/Capture25.png" class="modal-open" data-modal="modal25" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture26.png" class="modal-open" data-modal="modal26" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture27.png" class="modal-open" data-modal="modal27" width="80" height="80;">
+	                     <img src="img/Signs/yemiastenekeku/Capture28.png" class="modal-open" data-modal="modal28" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture29.png" class="modal-open" data-modal="modal29" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture30.png" class="modal-open" data-modal="modal30" width="80" height="80;">
+                        <img src="img/Signs/yemiastenekeku/Capture31.png" class="modal-open" data-modal="modal31" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture32.png" class="modal-open" data-modal="modal32" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture33.png" class="modal-open" data-modal="modal33" width="80" height="80;">
+	                     <img src="img/Signs/yemiastenekeku/Capture34.png" class="modal-open" data-modal="modal34" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture35.png" class="modal-open" data-modal="modal35" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture36.png" class="modal-open" data-modal="modal36" width="80" height="80;">
+	                     <img src="img/Signs/yemiastenekeku/Capture37.png" class="modal-open" data-modal="modal37" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture38.png" class="modal-open" data-modal="modal38" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture39.png" class="modal-open" data-modal="modal39" width="80" height="80;">
+	                     <img src="img/Signs/yemiastenekeku/Capture40.png" class="modal-open" data-modal="modal40" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture41.png" class="modal-open" data-modal="modal41" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture42.png" class="modal-open" data-modal="modal42" width="80" height="80;">
+	                     <img src="img/Signs/yemiastenekeku/Capture43.png" class="modal-open" data-modal="modal43" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture44.png" class="modal-open" data-modal="modal44" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture45.png" class="modal-open" data-modal="modal45" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture46.png" class="modal-open" data-modal="modal46" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture47.png" class="modal-open" data-modal="modal47" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture48.png" class="modal-open" data-modal="modal48" width="80" height="80;">
+	                     <img src="img/Signs/yemiastenekeku/Capture49.png" class="modal-open" data-modal="modal49" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture50.png" class="modal-open" data-modal="modal50" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture51.png" class="modal-open" data-modal="modal51" width="80" height="80;">
+						<img src="img/Signs/yemiastenekeku/Capture52.png" class="modal-open" data-modal="modal52" width="80" height="80;">
+	                    <img src="img/Signs/yemiastenekeku/Capture53.png" class="modal-open" data-modal="modal53" width="80" height="80;">
+						<br>
 
-    <button class="btn"><a href="signs.php">የሚያስጠነቅቁ</a></button> 
-    <button class="btn"><a href="signs1.php"> የሚከለክሉ</a></button>
+    <button class="btn1"><a href="signs.php">የሚያስጠነቅቁ</a></button> 
+    <button class="btn1"><a href="signs1.php"> የሚከለክሉ</a></button>
     <button class="btn1"><a href="signs2.php"> ቅድሚያ የሚያሰጡ</a></button>
-    <button class="btn2"><a href="signs3.php"> የሚያስገድዱ</a></button>
-    <button class="btn2"><a href="signs4.php"> መረጃ የሚሰጡ</a></button>
+    <button class="btn1"><a href="signs3.php"> የሚያስገድዱ</a></button>
+    <button class="btn1"><a href="signs4.php"> መረጃ የሚሰጡ</a></button>
 
      <div class="modal" id="modal1">
 	 	<div class="modal-content">
-	 		መንገዱ ፊት ለፊትና ወደቀኝ የሚያስኬድ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡  
+		 	በመንገዱ ላይ ጠባብ ድልድይ ስለሚያጋጥምህ ተጠንቅቀህ አሽከርክር 
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal2">
 	 	<div class="modal-content">
-	 		 መንገዱ ፊት ለፊትና ወደግራ የሚያስኬድ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 በመንገዱ የሚጠግኑ ሰራተኞች ስላሉ ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር 
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal3">
 	 	<div class="modal-content">
-	 		 መንገዱ ፊት ለፊትና ወደቀኝ የሚታጠፍ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 ባለ አራት አቅጣጫ መንገድ ስለሚያጋጥምህ ቆመህ ለተሽከርከሪዎች እና ለተላላጊዎች ቅድሚያ በመስጠት ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal4">
 	 	<div class="modal-content">
-	 		 መንገዱ ፊት ለፊትና ወደግራ የሚታጠፍ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 ፊት ለፊት እና ወደ ግራ የሚያስኬድ መገናኛ መንገድ ስለሚያጋጥምህ ተጠንቅቀህ አሽከርክር  
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal5">
 	 	<div class="modal-content">
-	 		 ወደቀኝ የሚገነጠል መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡  
+		 ፊት ለፊት እና ወደ ቀኝ የሚያስኬድ መገናኛ መንገድ ስለሚያጋጥምህ ተጠንቅቀህ አሽከርክር    
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal6">
 	 	<div class="modal-content">
-	 		 ወደግራ የሚገነጠል መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 መገናኛ መንገዱ ወደግራ እና ወደቀኝ የሚታጠፍ እንጂ ወደ ፊት ለፊት የሚያስኬድ ስላልሆነ ተጠንቅቀህ አሽከርክር 
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal7">
 	 	<div class="modal-content">
-	 		 መንገዱ ወደግራ ስለሚታጠፍ ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 የተበላሸ መንገድ ስለሚያጋጥምህ ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር  
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal8">
 	 	<div class="modal-content">
-	 		 መንገዱ ወደቀኝ ስለሚታጠፍ ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 የምታሽከረክርበት መንገድ ወደግራ ስለሚታጠፍ የግራ ረድፍህን ይዘህ በጥንቃቄ አሽከርክር  
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal9">
 	 	<div class="modal-content">
-	 		 መንገዱ መጀመሪያ ወደቀኝ ቀጥሎ ወደግራ ስለሚታጠፍ ተጠንቅቀው ያሽከርክሩ፡፡  
+		 የምታሽከረክርበት መንገድ ወደቀኝ ስለሚታጠፍ የቀኝ ረድፍህን ይዘህ በጥንቃቄ አሽከርክር  
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal10">
 	 	<div class="modal-content">
-	 		 መንገዱ መጀመሪያ ወደግራ ቀጥሎ ወደቀኝ ስለሚታጠፍ ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 መጀመሪያ ወደግራ ቀጥሎ ወደቀኝ የሚታጠፍ መንገድ ስለሚያጋጥምህ ተጠንቅቀህ አሽከርክር   
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal11">
 	 	<div class="modal-content">
-	 		 ወደቀኝ እና ወደግራ የሚጠማዘዝ ኩርባ መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡  
+		 መጀመሪያ ወደቀኝ ቀጥሎ ወደግራ የሚታጠፍ መንገድ ስለሚያጋጥምህ ተጠንቅቀህ አሽከርክር   
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal12">
 	 	<div class="modal-content">
-	 		 ወደግራ እና ወደቀኝ የሚጠማዘዝ ኩርባ መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡  
-	 		<div class="modal-close">+</div>
+			መንገዱ እየጠበበ የሚሄድ ስለሆነ ተጠንቅቀህ አሽከርክር	 		
+			<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal13">
 	 	<div class="modal-content">
-	 		 በስተግራ የሚጠማዘዝ ኩርባ መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 መዝጊያ ያለው የባቡር ሃዲድ ማቋረጫ ስለሚያጋጥምህ ቆመህ ባቡር አለመኖሩን አረጋግጠህ በጥንቃቄ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal14">
 	 	<div class="modal-content">
-	 		 በስተቀኝ የሚጠማዘዝ ኩርባ መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 መዝጊያ የሌለው የባቡር ሃዲድ ማቋረጫ ስለሚያጋጥምህ ቆመህ ባቡር አለመኖሩን አረጋግጠህ በጥንቃቄ አሽከርክር 
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal15">
 	 	<div class="modal-content">
-	 		 መንገዱ በስተግራ እና በስተቀኝ ለሁለት ስለሚከፈል ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 አደገኛ ቁልቁለት ስለምያጋጥምህ ከባድ ማርሽ በማስገባት ተጠንቅቀህ አሽከርክር  
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal16">
 	 	<div class="modal-content">
-	 		 መንገዱ በስተግራ እና በስተቀኝ እንጂ ወደፊት ዝግ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 አጭር ርቀት ዉስጥ የተደጋገመ የባቡር ሃዲድ ማቋረጫ መኖሩን የሚያስጠነቅቅ ነው
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal17">
 	 	<div class="modal-content">
-	 		 መንገዱ ወደፊት ወደግራ እና ወደቀኝ ስለሚያስኬድ ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 በመንገድ ላይ የባቡር ሃዲድ ማቋረጫ ስላለ ተጠንቅቀህ አሽከርክር 
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal18">
 	 	<div class="modal-content">
-	 		 መስቀለኛ መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 የህለት ባቡሮች ሃዲድ መንገዱን የሚያቋርጥ ስለሆነ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
@@ -429,236 +432,247 @@ img {
 
 	 <div class="modal" id="modal19">
 	 	<div class="modal-content">
-	 		 በሁለቱም መንገድ እየጠበበ ስለሚሄድ ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 በመንገድ ላይ ብዝይ ሰዎች የሚተላለፉበት አካባቢ ስለሆ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal20">
 	 	<div class="modal-content">
-	 		 በስተግራ በኩል መጋቢ መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡
+	 		 ተማሪዎች የሚበዙበት አካባቢ ስለሆነ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal21">
 	 	<div class="modal-content">
-	 		 በስተቀኝ በኩል መጋቢ መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡
+	 		 በአንድ አቅጣጫ ብቻ ለማሽከርከር በተፈቀደለት መንገድ ላይ ለጊዜው በሁለቱም አቅጣጫ በኩል እንዲተላለፉበት ስለተፈቀደ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal22">
 	 	<div class="modal-content">
-	 		 በሁለት ተከፍሎ የነበረው መንገድ ባለአንድ ስለሚሆን ተጠንቅቀው ያሽከርክሩ፡፡
+	 		 የሚያንሸራትት መንገድ ስለሚያጋጥምህ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal23">
 	 	<div class="modal-content">
-	 		 ባለአንድ የነበረው መንገድ ባለሁለት ስለሚሆን ተጠንቅቀው ያሽከርክሩ፡፡
+	 		 በመንገዱ ላይ አስጊ ወይም አደገኛ ሁኔታ ስላለ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal24">
 	 	<div class="modal-content">
-	 		 በሁለት አቅጣጫ የተፈቀደ መንገድ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡
+	 		 ወደፊት የትራፊክ መብራት ስላለ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal25">
 	 	<div class="modal-content">
-	 		 በሁለቱም አቅጣጫ መተላለፍ የተፈቀደ መንገድ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡
+	 		 በመንገድ አግድም የሚነፍስ ሃይለኛ ንፋስ ስላለ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal26">
 	 	<div class="modal-content">
-	 		 ባለሁለት አቅጣጫ መንገድ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡
+	 		 ወደግራ የሚታጠፍ አደገኛ ኩርባ /ምልክቱ ሲዞር ወደቀኝ የሚታጠፍ አደገኛ ኩርባ ስላለ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal27">
 	 	<div class="modal-content">
-	 		 የትራፊክ መተላለፊያ መብራት ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡
+	 		 ወደፊት ክብ አደባባይ ስላለ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal28">
 	 	<div class="modal-content">
-	 		  መስለኪያ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡
+	 		ሁለት ነጠላ መንገድ ወደ አንድ ነጠላ መንገድ ስለሚገናኝ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	   <div class="modal" id="modal29">
 	 	<div class="modal-content">
-	 		  ጠመዝማዛ መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡
+	 		በመንገድ ላይ የሙፈናጠር ድንጋይ ስላለ ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal30">
 	 	<div class="modal-content">
-	 		  አደገኛ ቁልቁለት መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡
+	 		ወደፊት የትራፊክ መጨናነቅ ስላለ ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal31">
 	 	<div class="modal-content">
-	 		  የሚያንሽራትት መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡
+	 		ወደፊት የቤት እንስሳት ስላሉ /መንገድ ስለሚያቋርጡ/ ፍጥነትህን በመቀነስ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal32">
 	 	<div class="modal-content">
-	 		 አደገኛ ናዳ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡
+	 		የአካል ጉዳተኞች ስላሉ ፍጥነትህን በመቀነስ ተጠንቅቀህ እለፍ
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal33">
 	 	<div class="modal-content">
-	 		  አደገኛ ቁልቁለት መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡
+	 		ወደፊት የእርሻ መገልገያ መሳሪያዎች ስላሉ / መንገዱን ስለሚያቋርጡ/ ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal34">
 	 	<div class="modal-content">
-	 		  ጠባብ ድልድይ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡
+	 		አደገኛ ጠመዝማዛ መንገድ ስለሚያጋጥም ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal35">
 	 	<div class="modal-content">
-	 		  ተከፋች ድልድይ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡
+	 		ወደፊት የእሳት አደጋ መከላከያ ጣቢያ ስላለ /የእሳት አደጋ መከላከያ ተሽከርካሪ ስለሚያቋርጥ/ ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal36">
 	 	<div class="modal-content">
-	 		  እግረኛ ሚበዛበት መንገድ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡
+	 		  ወደፊት የጭነት ተሽከርካሪዎች ስላልይ /መንገዱን ስለሚያቋርጡ/ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal37">
 	 	<div class="modal-content">
-	 		  ተማሪ ሚበዛበት መንገድ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡
+	 		ከፊት ለፊት የህጻናት መጫወቻ ኦታ ስላለ ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal38">
 	 	<div class="modal-content">
-	 		  መንገዱ እየተጠገነ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡
+	 		መንገድ ለሁለት መከፈል የሚጀምርበት ስለሆነ ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal39">
 	 	<div class="modal-content">
-	 		  ህጻናት የሚገኙ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡
+	 		ለሁለት ተከፍሉ የነበረው መንገድ ማብቂያ ስለሆነ ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal40">
 	 	<div class="modal-content">
-	 		  የግብርና ሰራተኞች የሚገኙ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡
+	 		ቁም የሚል ምልክት ወደፊት ስላለ ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal41">
 	 	<div class="modal-content">
-	 		  ከእንስሳት ተሳፋሪዎች የሚገኙ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡
+	 		ቅድሚያ ስጥ የሚል ምልክት ወደፊት ስላለ ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal42">
 	 	<div class="modal-content">
-	 		  መንገዱን የሚያቆርጡ እንስሳት የሚገኙ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡
+	 		በጎን በኩል ማዕዘናዊ ቅርፅ ሰርቶ የሚገኝ መንገድ ስላለ ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal43">
 	 	<div class="modal-content">
-	 		  በመንገዱ ላይ የባቡር ማቆረ ስላለ ተጠንቅቀው ያሽከርክሩ፡፡
+	 		Y ቅርፅ ያለው መገናኛ መንገድ ስላለ ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal44">
 	 	<div class="modal-content">
-	 		  የሁለት ባቡሮች ማቆረ ስላለ ተጠንቅቀው ያሽከርክሩ፡፡
+	 		በባንዲራ ትራፊክን የሚያስተናግድ ሰው ስላለ ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal45">
 	 	<div class="modal-content">
-	 		  መዝጊያ ያለው ባቡሮች ማቆረ ስላለ ተጠንቅቀው ያሽከርክሩ፡፡
+	 		መንገድ ቀያሽ ስላለ ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal46">
 	 	<div class="modal-content">
-	 		  መዝጊያ የሌለው ባቡሮች ማቆረ ስላለ ተጠንቅቀው ያሽከርክሩ፡፡
+	 		በቀኝ በኩል የባቡር ሃዲድ ማቋረጫ ስላለ ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	   <div class="modal" id="modal47">
 	 	<div class="modal-content">
-	 		  መዝጊያ የሌለው ባቡሮች ማቆረ ስላለ ተጠንቅቀው ያሽከርክሩ፡፡
+	 		በግራ በኩል የባቡር ሃዲድ ማቋረጫ ስላለ ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	   <div class="modal" id="modal48">
 	 	<div class="modal-content">
-	 		  መዝጊያ የሌለው ባቡሮች ማቆረ ስላለ ተጠንቅቀው ያሽከርክሩ፡፡
+	 		T ቅርፅ ያለው መንገድ ትይዩ የባቡር ሃዲድ ማቋረጫ ስላለ ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal49">
 	 	<div class="modal-content">
-	 		  መዝጊያ የሌለው ባቡሮች ማቆረ ስላለ ተጠንቅቀው ያሽከርክሩ፡፡
+	 		  የአስፋልት መንገድ መጨረሻ ስላለ ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	   <div class="modal" id="modal50">
 	 	<div class="modal-content">
-	 		  መዝጊያ የሌለው ባቡሮች ማቆረ ስላለ ተጠንቅቀው ያሽከርክሩ፡፡
+	 		  ናዳ ያለበት መንገድ ስለሚያጋጥምህ ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal51">
 	 	<div class="modal-content">
-	 		  ዝቅ ብለው ሚበሩ አውሮፕላኖች ስላሉ ተጠንቅቀው ያሽከርክሩ፡፡
+	 		ተንቀሳቃሽ /ተነሺ/ ድልድይ ስለሚያጋጥምህ ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
-
+	 <div class="modal" id="modal52">
+	 	<div class="modal-content">
+	 		ወደወንዝ ዳርቻ የሚወስድ መንገድ ስለሚያጋጥምህ ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር
+	 		<div class="modal-close">+</div>
+	 	</div>
+	 </div>
+	 <div class="modal" id="modal53">
+	 	<div class="modal-content">
+	 		የመንገዱ ዳር አደገኛ ስለሆነ ፍጥነትህን በመቀነስ ተጠንቅቀህ አሽከርክር
+	 		<div class="modal-close">+</div>
+	 	</div>
+	 </div>
 
 
 

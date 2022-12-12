@@ -157,6 +157,7 @@ img {
 		width: 20%;
 		color: white;
 		border-radius: 6px;
+		border-color: yellow;
 		font-weight: bold;
 		text-transform: uppercase;
 		box-shadow: 0 2px 3px 0 rgba(10,10,10,0.1);
@@ -242,142 +243,112 @@ img {
         			<div class="col-lg-8 col-lg-offst-2" style="padding-left: 50px;">
         				<h1> መንገድ ምልክቶች </h1>
         				<h4>መረጃ የሚሰጡ</h4>
-                        <img src="img/ii1.jpg" class="modal-open" data-modal="modal1" width="80" height="80;">
-	                    <img src="img/ii2.jpg" class="modal-open" data-modal="modal2" width="80" height="80;">
-	                    <img src="img/ii3.jpg" class="modal-open" data-modal="modal3" width="80" height="80;">
-	                     <img src="img/ii4.jpg" class="modal-open" data-modal="modal4" width="80" height="80;">
-	                    <img src="img/ii5.jpg" class="modal-open" data-modal="modal5" width="80" height="80;">
-	                    <img src="img/ii6.jpg" class="modal-open" data-modal="modal6" width="80" height="80;">
-	                     <img src="img/ii7.jpg" class="modal-open" data-modal="modal7" width="80" height="80;">
-	                    <img src="img/ii8.jpg" class="modal-open" data-modal="modal8" width="80" height="80;">
-	                    <img src="img/ii9.jpg" class="modal-open" data-modal="modal9" width="80" height="80;">
-	                     <img src="img/ii10.jpg" class="modal-open" data-modal="modal10" width="80" height="80;">
-	                    <img src="img/ii11.jpg" class="modal-open" data-modal="modal11" width="80" height="80;">
-	                    <img src="img/ii12.jpg" class="modal-open" data-modal="modal12" width="80" height="80;">
-	                     <img src="img/ii13.jpg" class="modal-open" data-modal="modal13" width="80" height="80;">
-	                    <img src="img/ii14.jpg" class="modal-open" data-modal="modal14" width="80" height="80;">
-	                    <img src="img/ii15.jpg" class="modal-open" data-modal="modal15" width="80" height="80;">
-	                     <img src="img/ii16.jpg" class="modal-open" data-modal="modal16" width="80" height="80;">
+                        <img src="img/Signs/merejaSechi/Capture1.png" class="modal-open" data-modal="modal1" width="80" height="80;">
+	                    <img src="img/Signs/merejaSechi/Capture2.png" class="modal-open" data-modal="modal2" width="80" height="80;">
+	                    <img src="img/Signs/merejaSechi/Capture3.png" class="modal-open" data-modal="modal3" width="80" height="80;">
+	                     <img src="img/Signs/merejaSechi/Capture4.png" class="modal-open" data-modal="modal4" width="80" height="80;">
+	                    <img src="img/Signs/merejaSechi/Capture5.png" class="modal-open" data-modal="modal5" width="80" height="80;">
+	                    <img src="img/Signs/merejaSechi/Capture6.png" class="modal-open" data-modal="modal6" width="80" height="80;">
+	                     <img src="img/Signs/merejaSechi/Capture7.png" class="modal-open" data-modal="modal7" width="80" height="80;">
+	                    <img src="img/Signs/merejaSechi/Capture8.png" class="modal-open" data-modal="modal8" width="80" height="80;">
+	                    <img src="img/Signs/merejaSechi/Capture9.png" class="modal-open" data-modal="modal9" width="80" height="80;">
+	                     <img src="img/Signs/merejaSechi/Capture10.png" class="modal-open" data-modal="modal10" width="80" height="80;">
+	                    <img src="img/Signs/merejaSechi/Capture11.png" class="modal-open" data-modal="modal11" width="80" height="80;">
+	                    <img src="img/Signs/merejaSechi/Capture12.png" class="modal-open" data-modal="modal12" width="80" height="80;">
 	                    <br>
 	                    <br>
 
-     <button class="btn"><a href="signs.php">የሚያስጠነቅቁ</a></button> 
-    <button class="btn"><a href="signs1.php"> የሚከለክሉ</a></button>
+     <button class="btn1"><a href="signs.php">የሚያስጠነቅቁ</a></button> 
+    <button class="btn1"><a href="signs1.php"> የሚከለክሉ</a></button>
     <button class="btn1"><a href="signs2.php"> ቅድሚያ የሚያሰጡ</a></button>
-    <button class="btn2"><a href="signs3.php"> የሚያስገድዱ</a></button>
-    <button class="btn2"><a href="signs4.php"> መረጃ የሚሰጡ</a></button>
+    <button class="btn1"><a href="signs3.php"> የሚያስገድዱ</a></button>
+    <button class="btn1"><a href="signs4.php"> መረጃ የሚሰጡ</a></button>
 
      <div class="modal" id="modal1">
 	 	<div class="modal-content">
-	 		መንገዱ ፊት ለፊትና ወደቀኝ የሚያስኬድ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		የነዳጅ መቅጃ ቦታ  
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal2">
 	 	<div class="modal-content">
-	 		 መንገዱ ፊት ለፊትና ወደግራ የሚያስኬድ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 የእግር ጉዞ መጀመሪያ ቦታ 
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal3">
 	 	<div class="modal-content">
-	 		 መንገዱ ፊት ለፊትና ወደቀኝ የሚታጠፍ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 ሆቴል ወይም ሞቴል  
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal4">
 	 	<div class="modal-content">
-	 		 መንገዱ ፊት ለፊትና ወደግራ የሚታጠፍ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 የጎብኚዎች ማረፊያ መንደር 
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal5">
 	 	<div class="modal-content">
-	 		 ወደቀኝ የሚገነጠል መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 ምግብ ቤት ያሉበት አካባቢ  
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal6">
 	 	<div class="modal-content">
-	 		 ወደግራ የሚገነጠል መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 መዝናኛ ወይም ቡና ቤት ያለበት አካባቢ  
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal7">
 	 	<div class="modal-content">
-	 		 መንገዱ ወደግራ ስለሚታጠፍ ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		ተጎታች ቤቶች /ሰረገላዎች/ና ማረፊያ ድንኳኖች ያሉበት አካባቢ  
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal8">
 	 	<div class="modal-content">
-	 		 መንገዱ ወደቀኝ ስለሚታጠፍ ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		ቴሌፎን/ስልክ/  
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal9">
 	 	<div class="modal-content">
-	 		 መንገዱ መጀመሪያ ወደቀኝ ቀጥሎ ወደግራ ስለሚታጠፍ ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		ለተበላሹ ተሽከርካሪዎች የጥገና አገልግሎት መስጫ ቦታ  
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal10">
 	 	<div class="modal-content">
-	 		 መንገዱ መጀመሪያ ወደግራ ቀጥሎ ወደቀኝ ስለሚታጠፍ ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 የእግር ጉዞ አካባቢ 
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal11">
 	 	<div class="modal-content">
-	 		 ወደቀኝ እና ወደግራ የሚጠማዘዝ ኩርባ መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 የመንገዶች ዘላቂ መሆን ወይም አለመሆን የሚገልጽ የመንገድ ዳር ምልክት ነው 
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal12">
 	 	<div class="modal-content">
-	 		 ወደግራ እና ወደቀኝ የሚጠማዘዝ ኩርባ መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡  
+		 የመንገዶች ዘላቂ መሆን ወይም አለመሆን የሚገልጽ የመንገድ ዳር ምልክት ነው 
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
-	 <div class="modal" id="modal13">
-	 	<div class="modal-content">
-	 		 በስተግራ የሚጠማዘዝ ኩርባ መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡  
-	 		<div class="modal-close">+</div>
-	 	</div>
-	 </div>
-
-	 <div class="modal" id="modal14">
-	 	<div class="modal-content">
-	 		 በስተቀኝ የሚጠማዘዝ ኩርባ መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡  
-	 		<div class="modal-close">+</div>
-	 	</div>
-	 </div>
-
-	  <div class="modal" id="modal15">
-	 	<div class="modal-content">
-	 		 መንገዱ በስተግራ እና በስተቀኝ ለሁለት ስለሚከፈል ተጠንቅቀው ያሽከርክሩ፡፡  
-	 		<div class="modal-close">+</div>
-	 	</div>
-	 </div>
-
-	 <div class="modal" id="modal16">
-	 	<div class="modal-content">
-	 		 መንገዱ በስተግራ እና በስተቀኝ እንጂ ወደፊት ዝግ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡  
-	 		<div class="modal-close">+</div>
-	 	</div>
-	 </div>
+	 
 
                          </div>
         			</div>

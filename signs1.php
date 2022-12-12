@@ -149,13 +149,14 @@ img {
 		transition: ease-in all 0.2s;
 }
 .btn1 {
-		margin: 15px;
+	margin: 15px;
 		text-align: center;
 		padding: 10px;
 		background-color: yellow;
 		width: 20%;
 		color: white;
 		border-radius: 6px;
+		border-color: yellow;
 		font-weight: bold;
 		text-transform: uppercase;
 		box-shadow: 0 2px 3px 0 rgba(10,10,10,0.1);
@@ -241,166 +242,174 @@ img {
         			<div class="col-lg-8 col-lg-offst-2" style="padding-left: 50px;">
         				<h1> መንገድ ምልክቶች </h1>
         				<h4>የሚከለክሉ</h4>
-                        <img src="img/imgg1.jpg" class="modal-open" data-modal="modal1" width="80" height="80;">
-	                    <img src="img/imgg2.jpg" class="modal-open" data-modal="modal2" width="80" height="80;">
-	                    <img src="img/imgg3.jpg" class="modal-open" data-modal="modal3" width="80" height="80;">
-	                     <img src="img/imgg4.jpg" class="modal-open" data-modal="modal4" width="80" height="80;">
-	                    <img src="img/imgg5.jpg" class="modal-open" data-modal="modal5" width="80" height="80;">
-	                    <img src="img/imgg6.jpg" class="modal-open" data-modal="modal6" width="80" height="80;">
-	                     <img src="img/imgg7.jpg" class="modal-open" data-modal="modal7" width="80" height="80;">
-	                    <img src="img/imgg8.jpg" class="modal-open" data-modal="modal8" width="80" height="80;">
-	                    <img src="img/imgg9.jpg" class="modal-open" data-modal="modal9" width="80" height="80;">
-	                     <img src="img/imgg10.jpg" class="modal-open" data-modal="modal10" width="80" height="80;">
-	                    <img src="img/imgg11.jpg" class="modal-open" data-modal="modal11" width="80" height="80;">
-	                    <img src="img/imgg12.jpg" class="modal-open" data-modal="modal12" width="80" height="80;">
-	                     <img src="img/imgg13.jpg" class="modal-open" data-modal="modal13" width="80" height="80;">
-	                    <img src="img/imgg14.jpg" class="modal-open" data-modal="modal14" width="80" height="80;">
-	                    <img src="img/imgg15.jpg" class="modal-open" data-modal="modal15" width="80" height="80;">
-	                     <img src="img/imgg16.jpg" class="modal-open" data-modal="modal16" width="80" height="80;">
-	                    <img src="img/imgg17.jpg" class="modal-open" data-modal="modal17" width="80" height="80;">
-	                    <img src="img/imgg18.jpg" class="modal-open" data-modal="modal18" width="80" height="80;">
-	                     <img src="img/imgg19.jpg" class="modal-open" data-modal="modal19" width="80" height="80;">
-	                    <img src="img/imgg20.jpg" class="modal-open" data-modal="modal20" width="80" height="80;">
-	                    <img src="img/imgg21.jpg" class="modal-open" data-modal="modal21" width="80" height="80;">
-	                     <img src="img/imgg22.jpg" class="modal-open" data-modal="modal22" width="80" height="80;">
-	                    <img src="img/imgg23.jpg" class="modal-open" data-modal="modal23" width="80" height="80;">
-	                    <img src="img/imgg24.jpg" class="modal-open" data-modal="modal24" width="80" height="80;">
-	                     <img src="img/imgg25.jpg" class="modal-open" data-modal="modal25" width="80" height="80;">
-	                    <img src="img/imgg26.jpg" class="modal-open" data-modal="modal26" width="80" height="80;">
-	                    <img src="img/imgg27.jpg" class="modal-open" data-modal="modal27" width="80" height="80;">
-	                     <img src="img/imgg28.jpg" class="modal-open" data-modal="modal28" width="80" height="80;">
-	                    <img src="img/imgg29.jpg" class="modal-open" data-modal="modal29" width="80" height="80;">
-	                    <img src="img/imgg30.jpg" class="modal-open" data-modal="modal30" width="80" height="80;">
+                        <img src="img/Signs/yemikeleklu/Capture1.png" class="modal-open" data-modal="modal1" width="80" height="80;">
+	                    <img src="img/Signs/yemikeleklu/Capture2.png" class="modal-open" data-modal="modal2" width="80" height="80;">
+	                    <img src="img/Signs/yemikeleklu/Capture3.png" class="modal-open" data-modal="modal3" width="80" height="80;">
+	                     <img src="img/Signs/yemikeleklu/Capture4.png" class="modal-open" data-modal="modal4" width="80" height="80;">
+	                    <img src="img/Signs/yemikeleklu/Capture5.png" class="modal-open" data-modal="modal5" width="80" height="80;">
+	                    <img src="img/Signs/yemikeleklu/Capture6.png" class="modal-open" data-modal="modal6" width="80" height="80;">
+	                     <img src="img/Signs/yemikeleklu/Capture7.png" class="modal-open" data-modal="modal7" width="80" height="80;">
+	                    <img src="img/Signs/yemikeleklu/Capture8.png" class="modal-open" data-modal="modal8" width="80" height="80;">
+	                    <img src="img/Signs/yemikeleklu/Capture9.png" class="modal-open" data-modal="modal9" width="80" height="80;">
+	                     <img src="img/Signs/yemikeleklu/Capture10.png" class="modal-open" data-modal="modal10" width="80" height="80;">
+	                    <img src="img/Signs/yemikeleklu/Capture11.png" class="modal-open" data-modal="modal11" width="80" height="80;">
+	                    <img src="img/Signs/yemikeleklu/Capture12.png" class="modal-open" data-modal="modal12" width="80" height="80;">
+	                     <img src="img/Signs/yemikeleklu/Capture13.png" class="modal-open" data-modal="modal13" width="80" height="80;">
+	                    <img src="img/Signs/yemikeleklu/Capture14.png" class="modal-open" data-modal="modal14" width="80" height="80;">
+	                    <img src="img/Signs/yemikeleklu/Capture15.png" class="modal-open" data-modal="modal15" width="80" height="80;">
+	                     <img src="img/Signs/yemikeleklu/Capture16.png" class="modal-open" data-modal="modal16" width="80" height="80;">
+	                    <img src="img/Signs/yemikeleklu/Capture17.png" class="modal-open" data-modal="modal17" width="80" height="80;">
+	                    <img src="img/Signs/yemikeleklu/Capture18.png" class="modal-open" data-modal="modal18" width="80" height="80;">
+	                     <img src="img/Signs/yemikeleklu/Capture19.png" class="modal-open" data-modal="modal19" width="80" height="80;">
+	                    <img src="img/Signs/yemikeleklu/Capture20.png" class="modal-open" data-modal="modal20" width="80" height="80;">
+	                    <img src="img/Signs/yemikeleklu/Capture21.png" class="modal-open" data-modal="modal21" width="80" height="80;">
+	                     <img src="img/Signs/yemikeleklu/Capture22.png" class="modal-open" data-modal="modal22" width="80" height="80;">
+	                    <img src="img/Signs/yemikeleklu/Capture23.png" class="modal-open" data-modal="modal23" width="80" height="80;">
+	                    <img src="img/Signs/yemikeleklu/Capture24.png" class="modal-open" data-modal="modal24" width="80" height="80;">
+	                     <img src="img/Signs/yemikeleklu/Capture25.png" class="modal-open" data-modal="modal25" width="80" height="80;">
+	                    <img src="img/Signs/yemikeleklu/Capture26.png" class="modal-open" data-modal="modal26" width="80" height="80;">
+	                    <img src="img/Signs/yemikeleklu/Capture27.png" class="modal-open" data-modal="modal27" width="80" height="80;">
+	                     <img src="img/Signs/yemikeleklu/Capture28.png" class="modal-open" data-modal="modal28" width="80" height="80;">
+	                    <img src="img/Signs/yemikeleklu/Capture29.png" class="modal-open" data-modal="modal29" width="80" height="80;">
+	                    <img src="img/Signs/yemikeleklu/Capture30.png" class="modal-open" data-modal="modal30" width="80" height="80;">
+						<img src="img/Signs/yemikeleklu/Capture31.png" class="modal-open" data-modal="modal31" width="80" height="80;">
+	                    <img src="img/Signs/yemikeleklu/Capture32.png" class="modal-open" data-modal="modal32" width="80" height="80;">
+						<img src="img/Signs/yemikeleklu/Capture33.png" class="modal-open" data-modal="modal33" width="80" height="80;">
+						<img src="img/Signs/yemikeleklu/Capture34.png" class="modal-open" data-modal="modal34" width="80" height="80;">
+						<img src="img/Signs/yemikeleklu/Capture35.png" class="modal-open" data-modal="modal35" width="80" height="80;">
+						<img src="img/Signs/yemikeleklu/Capture36.png" class="modal-open" data-modal="modal36" width="80" height="80;">
+						<img src="img/Signs/yemikeleklu/Capture37.png" class="modal-open" data-modal="modal37" width="80" height="80;">
+
 	                    <br>
 
-    <button class="btn"><a href="signs.php">የሚያስጠነቅቁ</a></button> 
-    <button class="btn"><a href="signs1.php"> የሚከለክሉ</a></button>
+    <button class="btn1"><a href="signs.php">የሚያስጠነቅቁ</a></button> 
+    <button class="btn1"><a href="signs1.php"> የሚከለክሉ</a></button>
     <button class="btn1"><a href="signs2.php"> ቅድሚያ የሚያሰጡ</a></button>
-    <button class="btn2"><a href="signs3.php"> የሚያስገድዱ</a></button>
-    <button class="btn2"><a href="signs4.php"> መረጃ የሚሰጡ</a></button>
+    <button class="btn1"><a href="signs3.php"> የሚያስገድዱ</a></button>
+    <button class="btn1"><a href="signs4.php"> መረጃ የሚሰጡ</a></button>
 
      <div class="modal" id="modal1">
 	 	<div class="modal-content">
-	 		ለእንስሳት ማለፍ የተከለከለ ነው፡፡  
+	 		ማንኛቸውም አይነት ተሽከርካሪና በእጅ የሚገፉትም ጭምር እንዳያልፉ የተከለከለ መንገድ ነው
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal2">
 	 	<div class="modal-content">
-	 		ለብስክሌት ማለፍ የተከለከለ ነው ፡፡  
+	 		ምልክቱ ባለበት አቅጣጫ እያሽከረከሩ ማለፍ ክልክል ነው
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal3">
 	 	<div class="modal-content">
-	 		 ለአውቶሞቢል መቅደም የተከለከለ ነው ፡፡  
+	 		 ቀስቱ በሚያመለክተው አቅጣጫ ወደቀኝ መታጠፍ የተከለከለ ነው  
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal4">
 	 	<div class="modal-content">
-	 		 መቅደም የተከለከለ ነው የሚለው መጨረሻ፡፡  
+		 ቀስቱ በሚያመለክተው አቅጣጫ ወደግራ መታጠፍ የተከለከለ ነው    
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal5">
 	 	<div class="modal-content">
-	 		ለእግረኛ ማለፍ የተከለከለ ነው ፡፡  
+	 		  ከሁለት እግር በላይ ያላቸውን አነስተኛ ተሽከርካሪዎች ምልክቱ ከተከለከለበት ስፍራ ጀምሮ መጨረሻ የሚል ሌላ ምልክት እስከሚታለፍበት ድረስ መቅደም የተከለከለ ነው
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal6">
 	 	<div class="modal-content">
-	 		  ለከባድ ካሚዮን (በቁጥሩ መሰረት) ማለፍ የተከለከለ ነው ፡፡    
+		 ከሁለት እግር በላይ ያላቸው የሞተር ተሽከርካሪዎች በዚህ በኩል እንዳይሄዱ የተከለከለ ነው
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal7">
 	 	<div class="modal-content">
-	 		በስተቀኝ ዞሮ መመለስ የተከለከለ ነው ፡፡  
+	 		ሞተር ብስኪሌት ማሽከርከር የተከለከለበት መንገድ
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal8">
 	 	<div class="modal-content">
-	 		 በስተግራ ዞሮ መመለስ የተከለከለ ነው ፡፡ 
+	 		በሞተር ሃይል የሚንቀሳቀስ ማንኛውም አይነት ተሽከርካሪ እንዳያልፍ የተከለከለበት መንገድ
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal9">
 	 	<div class="modal-content">
-	 		 ለረጅም ሰአት ማቆም የሚከለክል ሲሆን ሹፌሩ ሳይወርድ ግን ማቆምም ማውረድ ይችላል ።  
+	 		 ጠቅላላ ክብደቱ በኪሎ ግራም በምልክቱ ላይ ከተመለከተው በላይ ለሆነ የጭነት ተሽከርካሪ ማለፍ የተከለከለ 
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal10">
 	 	<div class="modal-content">
-	 		 ጠቅላላ ክብደቱ 6ቶን በላይ የሆነ ማለፍ የተከለከለ ነው ፡፡  
+	 		 ጠቅላላ ክብደቱ በምልክቱ ላይ ከተመለከተው በላይ ለሆነ ማንኛውም ተሽከርካሪ ማለፍ የተከለከለ  
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal11">
 	 	<div class="modal-content">
-	 		ከፍታው በምልክቱ ላይ እንዳለው ከ 3ሜትር በላይ ማለፍ የተከለከለ ነው ፡፡  
+	 		ቀስቱ እንደሚያመለክተው በስተግራ ወደኋላ ዞሮ መመለስ ክልክል ነው
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal12">
 	 	<div class="modal-content">
-	 		 በሞተር ሐይል! በእንስሳት ሐይል!  በእጅ የሚገፉትንም ጭምር ለማንኛውም ተሽከርካሪ ማለፍ የተከለከለ ነው ፡፡
+	 		 ይህ ምልክት ባለበት መንገድ ብስክሌት እያሽከረከሩ ማለፍ ክልክል ነው
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal13">
 	 	<div class="modal-content">
-	 		 ምልክቱ በሚታይበት በኩል ማለፍ የተከለከለ ነው ፡፡   
+	 		 ለማንኛውም እንስሳና በእንሣት ለሚሳቡ ተሽከርካሪዎች ጭምር በዚህ በኩል ማለፍ ክልክል ነው   
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal14">
 	 	<div class="modal-content">
-	 		የምልክቱ መጨረሻ የሚለውን እስክታግኝ ድረስ ማቆም የተከለከለ ነው ፡፡ 
+	 		በሰው ሃይል የሚንቀሳቀሱ ተሽከርካሪዎችን በዚህ በኩል ማሳለፍ ክልክል ነው
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal15">
 	 	<div class="modal-content">
-	 		 ማቆም ክልክል ነው የሚለው ትእዛዝ መጨረሻ፡፡ 
+	 		 ይህ ምልክት ባለበት መንገድ ላይ እግረኞች እንዳይሄዱበት ይከለከላል
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal16">
 	 	<div class="modal-content">
-	 		ከፊትለፊት ለሚመጣ ተሽከርካሪ ቅድሚያ ሳይሰጡ ማለፍ የተከለከለ ነው ፡፡ 
+	 		የአክስሉ ጭነት በምልክቱ ላይ ከተመለከተው ኪሎ ግራም ክብደት በላይ ለሆነ ተሽከርካኢ ማለፍ የተከለከለ 
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal17">
 	 	<div class="modal-content">
-	 		 መንገዱ ወደፊት ወደግራ እና ወደቀኝ ስለሚያስኬድ ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 ጠቅላላ ስፋቱ በሜትር በምልክቱ ላይ ከተመለከተው ኪሎግራም በላይ ለሆነ ተሽከርካሪ ማለፍ የተከለከለ
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal18">
 	 	<div class="modal-content">
-	 		 መስቀለኛ መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 ጠቅላላ ስፋቱ በሜትር በምልክቱ ከተመለከተው በላይ ለሆነ ተሽከርካሪ ማለፍ የተከለከለ 
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
@@ -408,87 +417,129 @@ img {
 
 	 <div class="modal" id="modal19">
 	 	<div class="modal-content">
-	 		 በሁለቱም መንገድ እየጠበበ ስለሚሄድ ተጠንቅቀው ያሽከርክሩ፡፡  
+	 		 የከተማ ክልል ምልክት በከተማ ክልል ዉስጥ ለማሽከርከር የተወሰኑትን ህጎች አክብር
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal20">
 	 	<div class="modal-content">
-	 		 በስተግራ በኩል መጋቢ መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡
+	 		 የከተማ ክልልና የፍጥነት ወሰን መጨረሻ
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal21">
 	 	<div class="modal-content">
-	 		 በስተቀኝ በኩል መጋቢ መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡
+	 		 ማንኛውም አይነት የማስጠንቀቂያ የጡሩንባ ድምፅ ማሰማት የተከለከለ ነው
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal22">
 	 	<div class="modal-content">
-	 		 በሁለት ተከፍሎ የነበረው መንገድ ባለአንድ ስለሚሆን ተጠንቅቀው ያሽከርክሩ፡፡
+	 		 ይህ ምልክት ከተተከለበት ስፍራ ጀምሮ መገናኛ ወይም መስቀለኛ መንገድ እስክታልፍ ድረስ ወይም በውስጡ መጨረሻ የሚል ፅሁፍ ያለበትን የዚህን አይነት ምልክት እስክታልፍ ድረስ ተሽከርካሪህን ማቆም በፍፁም የተከለከለ ነው 
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal23">
 	 	<div class="modal-content">
-	 		 ባለአንድ የነበረው መንገድ ባለሁለት ስለሚሆን ተጠንቅቀው ያሽከርክሩ፡፡
+	 		 ይህ ምልክት ከተተከለበት ስፍራ ጀምሮ የሚቀለውን መገናኛ ወይም መስቀለኛ መንገድ እስክታልፍ ድረስ ወይም መጨረሻ የሚል ፅሁፍ ያለበትን የዚህን አይነት ምልክት እስክታልፍ ድረስ ተሽከርካሪህን ማቆም በፍፁም የተከለከለ ነው ነገር ግን አሽከርካሪው ከመኪናው ሳይወጣ ሰዎችን ማሳፈር እቃ ለመጫን እና ለማውረድ ብቻ ለጥቂት ጌዜ ማቆም ይቻላል
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal24">
 	 	<div class="modal-content">
-	 		 በሁለት አቅጣጫ የተፈቀደ መንገድ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡
+	 		ይህ ምልክት ባለበት መንገድ ላይ ከፊት ለፊት ለሚመጣ ተሽከርካሪ ቅድሚያ ሳይሰጡ ማሽከርከር ክልክል ነው
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal25">
 	 	<div class="modal-content">
-	 		 በሁለቱም አቅጣጫ መተላለፍ የተፈቀደ መንገድ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡
+	 		 ቁም! የጉምሩል ም/ቤት /ፍተሻ ቦና/ ነው። ይህ ምልክት ባለበት ቦታ ሁሉ ማንኛውም አሽከርካሪ ተሽከርካሪውን አቁሞ በጉምሩክ ተቆጣጣሪዎች ሳያስፈትሽ እንዳያልፍ የሚከለክል ነው
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	 <div class="modal" id="modal26">
 	 	<div class="modal-content">
-	 		 ባለሁለት አቅጣጫ መንገድ ስለሆነ ተጠንቅቀው ያሽከርክሩ፡፡
+	 		 መኪና ለማቆም የሚከለክለው ምልክት ትዕዛዝ መጨረሻ መሆኑን የሚገልጽ ምልክት ነው
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal27">
 	 	<div class="modal-content">
-	 		 የትራፊክ መተላለፊያ መብራት ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡
+	 		 በምልክቱ ላይ ከሚታየው ባነሰ ርቀት ተጠግቶ ማሽከርከር ክልክል ነው
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal28">
 	 	<div class="modal-content">
-	 		  መስለኪያ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡
+	 		ይህ ምልክት ካለበት ጀምሮ እስከሚቀጥለው መስቀለኛ መንገድ ወይም 'መጨረሻ' ከሚል ጽሁፍ ቀጥሎ የሚገኝ የዚህ አይነት ምልክት እስካለበት ድረስ ለአጭርም ለረጅምም ጊዜ ማቆም የተከለከለ ነው
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	   <div class="modal" id="modal29">
 	 	<div class="modal-content">
-	 		  ጠመዝማዛ መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡
+	 		አደገኛ ፍንዳታ የሚያስከትን ጭነት ለጫነ ተሽከርካሪ የተፈቀደ መንገድ
 	 		<div class="modal-close">+</div>
 	 	</div>
 	 </div>
 
 	  <div class="modal" id="modal30">
 	 	<div class="modal-content">
-	 		  አደገኛ ቁልቁለት መንገድ ስለሚያጋጥም ተጠንቅቀው ያሽከርክሩ፡፡
+	 		አደገኛ ፍንዳታ የሚያስከትል ጭነት የጫነ ተሽከርካሪ ማለፍ የተከለከለ ነው
 	 		<div class="modal-close">+</div>
 	 	</div>
-	 </div>             
+	 </div>  
+	 <div class="modal" id="modal31">
+	 	<div class="modal-content">
+	 		የጭነት ተሽከርካሪዎች እንዲተላለፉበት የተፈቀደ መንገድ
+	 		<div class="modal-close">+</div>
+	 	</div>
+	 </div> 
+	 <div class="modal" id="modal32">
+	 	<div class="modal-content">
+	 		ለጭነት ተሽከርካሪ ማለፍ የተከለከለ
+	 		<div class="modal-close">+</div>
+	 	</div>
+	 </div> 
+	 <div class="modal" id="modal33">
+	 	<div class="modal-content">
+	 		የተበላሸ ተሽከርካሪ እየጎተቱ መጓዝ የተከለከለበት መንገድ
+	 		<div class="modal-close">+</div>
+	 	</div>
+	 </div> 
+	 <div class="modal" id="modal34">
+	 	<div class="modal-content">
+	 		ለብስክሌቶች ብቻ ለማሽከርከር የተፈቀደ መንገድ
+	 		<div class="modal-close">+</div>
+	 	</div>
+	 </div> 
+	 <div class="modal" id="modal35">
+	 	<div class="modal-content">
+	 		በመንገዱ ላይ የማሽከርከሪያ አነስተኛ ፍጥነት
+	 		<div class="modal-close">+</div>
+	 	</div>
+	 </div> 
+	 <div class="modal" id="modal36">
+	 	<div class="modal-content">
+	 		የአነስተኛ ፍጥነት መጨረሻ
+	 		<div class="modal-close">+</div>
+	 	</div>
+	 </div>    
+	 <div class="modal" id="modal37">
+	 	<div class="modal-content">
+	 		ጠቅላላ ርዝመቱ በምልክቱ ላይ ከተጠቀሰው በሜትር በላይ ለሆኑ ተሽከርካሪዎች ማለፍ የተከለከለ
+	 		<div class="modal-close">+</div>
+	 	</div>
+	 </div>          
 
 
                          </div>
