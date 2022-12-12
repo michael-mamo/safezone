@@ -243,15 +243,15 @@ img {
         			<div class="col-lg-8 col-lg-offst-2" style="padding-left: 50px;">
         				<h1> መንገድ ምልክቶች </h1>
         				<h4> ቅድሚያ የሚያሰጡ</h4>
-						<img src="img/Signs/kedmiaYemiasetu/Capture1.png" class="modal-open" data-modal="modal1" width="80" height="80;">
-						<img src="img/Signs/kedmiaYemiasetu/Capture2.png" class="modal-open" data-modal="modal2" width="80" height="80;">
-						<img src="img/Signs/kedmiaYemiasetu/Capture3.png" class="modal-open" data-modal="modal3" width="80" height="80;">
-						<img src="img/Signs/kedmiaYemiasetu/Capture4.png" class="modal-open" data-modal="modal4" width="80" height="80;">
-						<img src="img/Signs/kedmiaYemiasetu/Capture5.png" class="modal-open" data-modal="modal5" width="80" height="80;">
-						<img src="img/Signs/kedmiaYemiasetu/Capture6.png" class="modal-open" data-modal="modal6" width="80" height="80;">
-						<img src="img/Signs/kedmiaYemiasetu/Capture7.png" class="modal-open" data-modal="modal7" width="80" height="80;">
-						<img src="img/Signs/kedmiaYemiasetu/Capture8.png" class="modal-open" data-modal="modal8" width="80" height="80;">
-						<img src="img/Signs/kedmiaYemiasetu/Capture9.png" class="modal-open" data-modal="modal9" width="80" height="80;">
+						<img src="img/Signs/kedmiaYemiasetu/Capture1.PNG" class="modal-open" data-modal="modal1" width="80" height="80;">
+						<img src="img/Signs/kedmiaYemiasetu/Capture2.PNG" class="modal-open" data-modal="modal2" width="80" height="80;">
+						<img src="img/Signs/kedmiaYemiasetu/Capture3.PNG" class="modal-open" data-modal="modal3" width="80" height="80;">
+						<img src="img/Signs/kedmiaYemiasetu/Capture4.PNG" class="modal-open" data-modal="modal4" width="80" height="80;">
+						<img src="img/Signs/kedmiaYemiasetu/Capture5.PNG" class="modal-open" data-modal="modal5" width="80" height="80;">
+						<img src="img/Signs/kedmiaYemiasetu/Capture6.PNG" class="modal-open" data-modal="modal6" width="80" height="80;">
+						<img src="img/Signs/kedmiaYemiasetu/Capture7.PNG" class="modal-open" data-modal="modal7" width="80" height="80;">
+						<img src="img/Signs/kedmiaYemiasetu/Capture8.PNG" class="modal-open" data-modal="modal8" width="80" height="80;">
+						<img src="img/Signs/kedmiaYemiasetu/Capture9.PNG" class="modal-open" data-modal="modal9" width="80" height="80;">
                      <br>
                       <br>
 

@@ -243,18 +243,18 @@ img {
         			<div class="col-lg-8 col-lg-offst-2" style="padding-left: 50px;">
         				<h1> መንገድ ምልክቶች </h1>
         				<h4>መረጃ የሚሰጡ</h4>
-                        <img src="img/Signs/merejaSechi/Capture1.png" class="modal-open" data-modal="modal1" width="80" height="80;">
-	                    <img src="img/Signs/merejaSechi/Capture2.png" class="modal-open" data-modal="modal2" width="80" height="80;">
-	                    <img src="img/Signs/merejaSechi/Capture3.png" class="modal-open" data-modal="modal3" width="80" height="80;">
-	                     <img src="img/Signs/merejaSechi/Capture4.png" class="modal-open" data-modal="modal4" width="80" height="80;">
-	                    <img src="img/Signs/merejaSechi/Capture5.png" class="modal-open" data-modal="modal5" width="80" height="80;">
-	                    <img src="img/Signs/merejaSechi/Capture6.png" class="modal-open" data-modal="modal6" width="80" height="80;">
-	                     <img src="img/Signs/merejaSechi/Capture7.png" class="modal-open" data-modal="modal7" width="80" height="80;">
-	                    <img src="img/Signs/merejaSechi/Capture8.png" class="modal-open" data-modal="modal8" width="80" height="80;">
-	                    <img src="img/Signs/merejaSechi/Capture9.png" class="modal-open" data-modal="modal9" width="80" height="80;">
-	                     <img src="img/Signs/merejaSechi/Capture10.png" class="modal-open" data-modal="modal10" width="80" height="80;">
-	                    <img src="img/Signs/merejaSechi/Capture11.png" class="modal-open" data-modal="modal11" width="80" height="80;">
-	                    <img src="img/Signs/merejaSechi/Capture12.png" class="modal-open" data-modal="modal12" width="80" height="80;">
+                        <img src="img/Signs/merejaSechi/Capture1.PNG" class="modal-open" data-modal="modal1" width="80" height="80;">
+	                    <img src="img/Signs/merejaSechi/Capture2.PNG" class="modal-open" data-modal="modal2" width="80" height="80;">
+	                    <img src="img/Signs/merejaSechi/Capture3.PNG" class="modal-open" data-modal="modal3" width="80" height="80;">
+	                     <img src="img/Signs/merejaSechi/Capture4.PNG" class="modal-open" data-modal="modal4" width="80" height="80;">
+	                    <img src="img/Signs/merejaSechi/Capture5.PNG" class="modal-open" data-modal="modal5" width="80" height="80;">
+	                    <img src="img/Signs/merejaSechi/Capture6.PNG" class="modal-open" data-modal="modal6" width="80" height="80;">
+	                     <img src="img/Signs/merejaSechi/Capture7.PNG" class="modal-open" data-modal="modal7" width="80" height="80;">
+	                    <img src="img/Signs/merejaSechi/Capture8.PNG" class="modal-open" data-modal="modal8" width="80" height="80;">
+	                    <img src="img/Signs/merejaSechi/Capture9.PNG" class="modal-open" data-modal="modal9" width="80" height="80;">
+	                     <img src="img/Signs/merejaSechi/Capture10.PNG" class="modal-open" data-modal="modal10" width="80" height="80;">
+	                    <img src="img/Signs/merejaSechi/Capture11.PNG" class="modal-open" data-modal="modal11" width="80" height="80;">
+	                    <img src="img/Signs/merejaSechi/Capture12.PNG" class="modal-open" data-modal="modal12" width="80" height="80;">
 	                    <br>
 	                    <br>
 

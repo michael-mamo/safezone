@@ -244,12 +244,12 @@ img {
         			<div class="col-lg-8 col-lg-offst-2" style="padding-left: 50px;">
         				<h1> መንገድ ምልክቶች </h1>
         				<h4> የሚያስገድዱ</h4>
-						<img src="img/Signs/yemiasgededu/Capture1.png" class="modal-open" data-modal="modal1" width="80" height="80;">
-						<img src="img/Signs/yemiasgededu/Capture2.png" class="modal-open" data-modal="modal2" width="80" height="80;">
-						<img src="img/Signs/yemiasgededu/Capture3.png" class="modal-open" data-modal="modal3" width="80" height="80;">
-						<img src="img/Signs/yemiasgededu/Capture4.png" class="modal-open" data-modal="modal4" width="80" height="80;">
-						<img src="img/Signs/yemiasgededu/Capture5.png" class="modal-open" data-modal="modal5" width="80" height="80;">
-						<img src="img/Signs/yemiasgededu/Capture6.png" class="modal-open" data-modal="modal6" width="80" height="80;">
+						<img src="img/Signs/yemiasgededu/Capture1.PNG" class="modal-open" data-modal="modal1" width="80" height="80;">
+						<img src="img/Signs/yemiasgededu/Capture2.PNG" class="modal-open" data-modal="modal2" width="80" height="80;">
+						<img src="img/Signs/yemiasgededu/Capture3.PNG" class="modal-open" data-modal="modal3" width="80" height="80;">
+						<img src="img/Signs/yemiasgededu/Capture4.PNG" class="modal-open" data-modal="modal4" width="80" height="80;">
+						<img src="img/Signs/yemiasgededu/Capture5.PNG" class="modal-open" data-modal="modal5" width="80" height="80;">
+						<img src="img/Signs/yemiasgededu/Capture6.PNG" class="modal-open" data-modal="modal6" width="80" height="80;">
 	                    <br>
                      <br>
                       <br>
